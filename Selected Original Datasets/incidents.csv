@@ -1,0 +1,1001 @@
+Incident_ID,Customer_ID,Age,Gender,Season,Weather,Activity,Slope_Name,Slope_Difficulty,Skill_Level,Protective_Gear,Injuries,Injury_Severity,Response_Time,Hospital_Transport,Hospital_Stay_Length
+0,2679,33,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Beginner,Helmet,Sprain,6,15,No,0
+1,4257,36,Female,Summer,Sunny,Hiking,Devil’s Drop,Expert,Beginner,Helmet,Fracture,6,23,No,0
+2,7924,47,Female,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Sprain,8,13,Yes,1
+3,7224,56,Male,Summer,Sunny,Hiking,Thunder Run,Advanced,Intermediate,Helmet,Fracture,5,9,No,0
+4,9785,17,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,None,Head Injury,8,10,Yes,4
+5,4150,53,Male,Summer,Windy,Hiking,Blue Ridge,Intermediate,Advanced,None,Sprain,2,15,No,0
+6,5554,16,Female,Winter,Foggy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Concussion,7,18,No,0
+7,2169,58,Male,Summer,Rainy,Hiking,Blue Ridge,Intermediate,Beginner,None,Sprain,5,12,No,0
+8,4598,31,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Intermediate,None,Sprain,7,11,No,0
+9,2084,20,Male,Winter,Sunny,Skiing,Thunder Run,Advanced,Intermediate,Pads,Concussion,6,11,No,0
+10,3340,32,Female,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,None,Sprain,3,16,No,0
+11,7543,50,Female,Winter,Foggy,Skiing,Shadow Valley,Expert,Advanced,Pads,Sprain,4,21,No,0
+12,3621,37,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Fracture,10,19,Yes,2
+13,1188,30,Male,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Intermediate,None,Concussion,7,10,No,0
+14,8433,40,Male,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Intermediate,Pads,Sprain,5,18,No,0
+15,9317,55,Male,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Beginner,None,Fracture,3,9,No,0
+16,6310,49,Female,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,8,13,Yes,3
+17,4946,55,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Fracture,3,13,No,0
+18,8787,48,Male,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Advanced,Helmet,Fracture,7,12,No,0
+19,6107,38,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Beginner,None,Sprain,3,11,No,0
+20,2049,49,Female,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,9,15,Yes,3
+21,1964,17,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Beginner,None,Sprain,6,18,No,0
+22,8953,28,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Advanced,Helmet,Concussion,6,20,No,0
+23,2545,56,Male,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Pads,Fracture,6,21,No,0
+24,2612,18,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Intermediate,None,Fracture,8,15,Yes,4
+25,4116,29,Female,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Beginner,Helmet,Sprain,4,10,No,0
+26,8260,42,Male,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Intermediate,Helmet,Fracture,6,18,No,0
+27,8956,20,Female,Winter,Sunny,Skiing,Thunder Run,Advanced,Beginner,Helmet,Concussion,4,16,No,0
+28,5345,44,Female,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Intermediate,Helmet,Concussion,7,11,No,0
+29,3536,39,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,None,Head Injury,7,14,No,0
+30,6138,41,Male,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Advanced,None,Fracture,4,10,No,0
+31,2122,53,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Fracture,7,18,No,0
+32,1651,56,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,None,Sprain,6,17,No,0
+33,4346,46,Female,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Advanced,Pads,Fracture,6,13,No,0
+34,8491,26,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Advanced,None,Concussion,4,13,No,0
+35,9808,31,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+36,3584,37,Female,Summer,Rainy,Hiking,Devil’s Drop,Expert,Beginner,Pads,Sprain,6,18,No,0
+37,2697,16,Male,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Beginner,None,Fracture,3,14,No,0
+38,5616,46,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Advanced,Helmet,Sprain,2,11,No,0
+39,5114,31,Male,Summer,Windy,Hiking,Shadow Valley,Expert,Intermediate,None,Sprain,4,16,No,0
+40,5291,30,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,25,Yes,3
+41,2232,30,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Advanced,Helmet,Sprain,3,8,No,0
+42,6974,33,Male,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Concussion,8,10,Yes,4
+43,7658,46,Male,Summer,Windy,Hiking,Bunny Hill,Easy,Advanced,Helmet,Sprain,3,17,No,0
+44,6442,53,Female,Winter,Snowy,Skiing,Summit Peak,Advanced,Beginner,Helmet,Sprain,6,9,No,0
+45,1634,39,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,Helmet,Concussion,5,13,No,0
+46,1387,40,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Intermediate,Helmet,Fracture,4,12,No,0
+47,9346,15,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,Pads,Head Injury,5,18,No,0
+48,1626,46,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Beginner,None,Sprain,5,10,No,0
+49,7311,33,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,Pads,Fracture,7,13,No,0
+50,6967,47,Female,Summer,Windy,Hiking,Summit Peak,Advanced,Beginner,None,Fracture,5,10,No,0
+51,9308,49,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,None,Concussion,7,12,No,0
+52,4143,49,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Intermediate,None,Fracture,5,9,No,0
+53,7653,34,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Advanced,None,Fracture,6,10,No,0
+54,8618,26,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Advanced,None,Head Injury,7,16,No,0
+55,2389,44,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Intermediate,None,Sprain,5,17,No,0
+56,3414,22,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Intermediate,Helmet,Fracture,3,9,No,0
+57,4185,47,Female,Winter,Windy,Skiing,Rocky Pass,Intermediate,Beginner,Pads,Concussion,5,20,No,0
+58,2746,33,Female,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,None,Fracture,8,14,Yes,4
+59,8478,31,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Advanced,Helmet,Fracture,9,17,No,0
+60,9270,55,Female,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Advanced,Pads,Fracture,6,10,No,0
+61,5050,45,Female,Summer,Windy,Hiking,Thunder Run,Advanced,Intermediate,Pads,Sprain,2,9,No,0
+62,4841,47,Female,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Intermediate,Helmet,Fracture,5,15,No,0
+63,7275,45,Male,Summer,Windy,Climbing,Devil’s Drop,Expert,Beginner,Helmet,Fracture,9,14,No,0
+64,7812,46,Male,Winter,Windy,Skiing,Summit Peak,Advanced,Intermediate,None,Concussion,8,15,Yes,4
+65,7232,40,Female,Winter,Windy,Snowboarding,Thunder Run,Advanced,Advanced,None,Fracture,5,15,No,0
+66,9947,56,Male,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Intermediate,Pads,Sprain,4,14,No,0
+67,6507,38,Female,Summer,Rainy,Hiking,Summit Peak,Advanced,Intermediate,Helmet,Sprain,4,18,No,0
+68,1444,30,Male,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Concussion,8,15,Yes,4
+69,6363,42,Male,Summer,Rainy,Hiking,Bunny Hill,Easy,Beginner,Pads,Sprain,3,10,No,0
+70,5133,36,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,Pads,Head Injury,6,9,No,0
+71,2124,36,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Beginner,Pads,Fracture,4,18,No,0
+72,4908,56,Male,Winter,Snowy,Skiing,Thunder Run,Advanced,Beginner,None,Fracture,4,11,No,0
+73,7043,51,Male,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Beginner,Pads,Fracture,4,9,No,0
+74,7149,58,Female,Winter,Foggy,Skiing,Devil’s Drop,Expert,Advanced,Helmet,Concussion,6,18,No,0
+75,2983,46,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Sprain,10,22,No,0
+76,1207,54,Female,Summer,Rainy,Mountain Biking,Shadow Valley,Expert,Intermediate,Helmet,Fracture,6,17,No,0
+77,8135,40,Male,Summer,Rainy,Hiking,Blue Ridge,Intermediate,Advanced,Pads,Fracture,5,18,No,0
+78,5397,15,Female,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Intermediate,Pads,Fracture,3,17,No,0
+79,7209,46,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,Pads,Sprain,4,9,No,0
+80,5232,30,Female,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Intermediate,Helmet,Concussion,4,15,No,0
+81,2402,36,Male,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Advanced,Helmet,Sprain,3,13,No,0
+82,9041,51,Female,Summer,Windy,Climbing,Thunder Run,Advanced,Beginner,None,Head Injury,9,17,Yes,4
+83,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,None,Fracture,8,13,Yes,4
+84,6764,50,Female,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,None,Fracture,4,14,No,0
+85,6169,24,Male,Summer,Rainy,Climbing,Bunny Hill,Easy,Beginner,None,Fracture,5,19,No,0
+86,9595,24,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Pads,Sprain,8,11,Yes,3
+87,1231,19,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Concussion,4,10,No,0
+88,9042,46,Male,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Intermediate,None,Fracture,2,10,No,0
+89,1841,49,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Fracture,6,14,No,0
+90,3485,57,Male,Summer,Sunny,Hiking,Summit Peak,Advanced,Intermediate,Helmet,Fracture,5,10,No,0
+91,9561,54,Female,Summer,Sunny,Hiking,Devil’s Drop,Expert,Advanced,Pads,Fracture,4,21,No,0
+92,1986,26,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Advanced,Pads,Head Injury,6,14,No,0
+93,3847,43,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Beginner,Helmet,Fracture,8,12,Yes,4
+94,5771,55,Male,Winter,Windy,Skiing,Summit Peak,Advanced,Advanced,None,Concussion,4,13,No,0
+95,4824,25,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Intermediate,Helmet,Sprain,7,13,No,0
+96,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,None,Fracture,8,11,Yes,1
+97,5728,49,Female,Winter,Snowy,Skiing,Thunder Run,Advanced,Intermediate,None,Sprain,4,15,No,0
+98,9847,53,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Intermediate,Pads,Sprain,4,12,No,0
+99,5102,51,Male,Summer,Windy,Hiking,Devil’s Drop,Expert,Intermediate,None,Sprain,7,17,No,0
+100,1659,39,Male,Winter,Sunny,Skiing,Thunder Run,Advanced,Advanced,Pads,Sprain,6,16,No,0
+101,9056,36,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,Helmet,Fracture,5,16,No,0
+102,3634,55,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Intermediate,None,Fracture,9,10,Yes,4
+103,8451,28,Male,Summer,Rainy,Mountain Biking,Blue Ridge,Intermediate,Advanced,Pads,Sprain,5,12,No,0
+104,9889,19,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Intermediate,None,Fracture,10,25,Yes,1
+105,8242,35,Male,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Intermediate,None,Sprain,4,18,No,0
+106,2989,26,Male,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Intermediate,None,Concussion,7,19,No,0
+107,2527,52,Male,Winter,Foggy,Skiing,Rocky Pass,Intermediate,Beginner,None,Concussion,3,14,No,0
+108,5781,16,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Pads,Sprain,8,14,Yes,3
+109,7284,59,Male,Summer,Rainy,Climbing,Bunny Hill,Easy,Intermediate,None,Fracture,9,17,Yes,4
+110,5377,21,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Pads,Sprain,3,10,No,0
+111,3434,45,Female,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Advanced,None,Fracture,3,17,No,0
+112,6272,41,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Head Injury,7,13,No,0
+113,8749,42,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Concussion,5,11,No,0
+114,9229,15,Female,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Intermediate,Helmet,Sprain,4,10,No,0
+115,3361,39,Female,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,6,12,No,0
+116,7512,51,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Pads,Sprain,3,11,No,0
+117,9864,32,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,None,Fracture,6,12,No,0
+118,2612,15,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Concussion,3,14,No,0
+119,1919,37,Female,Summer,Windy,Hiking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,2,12,No,0
+120,3950,38,Male,Summer,Rainy,Climbing,Bunny Hill,Easy,Beginner,None,Head Injury,5,11,No,0
+121,3344,50,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Concussion,6,15,No,0
+122,8622,42,Female,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Intermediate,None,Sprain,4,17,No,0
+123,7951,41,Female,Winter,Windy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Sprain,6,17,No,0
+124,7248,27,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Intermediate,Helmet,Fracture,5,15,No,0
+125,1132,49,Male,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Advanced,Pads,Fracture,8,18,No,0
+126,5106,39,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,9,Yes,1
+127,6977,47,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Sprain,4,15,No,0
+128,3165,25,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Intermediate,Helmet,Fracture,4,11,No,0
+129,2886,41,Female,Summer,Rainy,Hiking,Thunder Run,Advanced,Intermediate,Pads,Sprain,2,11,No,0
+130,7511,49,Female,Winter,Snowy,Skiing,Thunder Run,Advanced,Advanced,None,Sprain,3,9,No,0
+131,7038,19,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Concussion,4,13,No,0
+132,1410,51,Female,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Advanced,Helmet,Fracture,6,16,No,0
+133,2911,28,Male,Winter,Windy,Skiing,Shadow Valley,Expert,Intermediate,None,Concussion,4,11,No,0
+134,9807,54,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,Helmet,Fracture,3,15,No,0
+135,3531,40,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Advanced,None,Head Injury,6,14,No,0
+136,4559,26,Female,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Beginner,None,Concussion,5,17,No,0
+137,1992,44,Female,Summer,Rainy,Hiking,Devil’s Drop,Expert,Advanced,Pads,Sprain,4,27,No,0
+138,1349,37,Male,Summer,Sunny,Hiking,Thunder Run,Advanced,Intermediate,Helmet,Fracture,4,15,No,0
+139,4394,25,Male,Summer,Sunny,Hiking,Thunder Run,Advanced,Advanced,Helmet,Fracture,4,14,No,0
+140,3370,48,Male,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,Helmet,Concussion,6,12,No,0
+141,6869,29,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Beginner,Helmet,Fracture,3,19,No,0
+142,9619,52,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,4,10,No,0
+143,2786,56,Female,Winter,Windy,Snowboarding,Thunder Run,Advanced,Intermediate,None,Sprain,4,10,No,0
+144,8847,24,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Advanced,Helmet,Fracture,5,15,No,0
+145,2323,34,Female,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Advanced,Pads,Sprain,6,12,No,0
+146,9984,27,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,None,Sprain,7,9,No,0
+147,2624,37,Male,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,None,Fracture,4,15,No,0
+148,7532,54,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Intermediate,Pads,Concussion,6,10,No,0
+149,3500,17,Female,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Concussion,7,13,No,0
+150,7105,33,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,8,21,No,0
+151,1842,36,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,None,Concussion,8,13,Yes,1
+152,8900,40,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,9,21,Yes,4
+153,8030,41,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,None,Fracture,8,19,No,0
+154,6751,36,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Advanced,Pads,Sprain,2,11,No,0
+155,1502,40,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,None,Sprain,10,20,Yes,1
+156,6105,29,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Concussion,7,13,No,0
+157,2336,38,Female,Winter,Snowy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Sprain,8,12,Yes,2
+158,5475,37,Male,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Advanced,Pads,Fracture,4,12,No,0
+159,8972,52,Female,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Intermediate,None,Sprain,9,21,No,0
+160,5938,51,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Beginner,Helmet,Fracture,5,14,No,0
+161,8055,58,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,Helmet,Concussion,7,14,No,0
+162,2180,18,Female,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,None,Concussion,4,12,No,0
+163,8033,50,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Beginner,Pads,Sprain,5,8,No,0
+164,8538,58,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Beginner,Pads,Fracture,6,21,No,0
+165,9584,40,Male,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Intermediate,None,Concussion,6,18,No,0
+166,2251,20,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Fracture,6,12,No,0
+167,2684,18,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,14,Yes,4
+168,3902,45,Female,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Beginner,None,Fracture,3,13,No,0
+169,6179,50,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Advanced,None,Fracture,6,21,No,0
+170,1920,42,Female,Summer,Rainy,Hiking,Summit Peak,Advanced,Advanced,Pads,Sprain,5,12,No,0
+171,5703,44,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Concussion,6,11,No,0
+172,8368,25,Male,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Advanced,None,Fracture,6,13,No,0
+173,2695,19,Female,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Beginner,Helmet,Fracture,6,15,No,0
+174,9586,15,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,8,12,Yes,4
+175,6482,25,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Intermediate,Pads,Fracture,6,10,No,0
+176,3463,47,Female,Summer,Windy,Hiking,Shadow Valley,Expert,Intermediate,Pads,Sprain,4,21,No,0
+177,7421,24,Male,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Advanced,None,Sprain,8,14,Yes,3
+178,9624,34,Male,Winter,Windy,Snowboarding,Shadow Valley,Expert,Intermediate,Helmet,Sprain,7,11,No,0
+179,4509,52,Female,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Intermediate,Pads,Sprain,5,16,No,0
+180,2657,19,Male,Summer,Sunny,Hiking,Bunny Hill,Easy,Beginner,Helmet,Sprain,4,10,No,0
+181,3962,25,Male,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,4,10,No,0
+182,8277,15,Female,Summer,Rainy,Hiking,Blue Ridge,Intermediate,Advanced,None,Fracture,2,13,No,0
+183,7026,51,Female,Summer,Windy,Hiking,Bunny Hill,Easy,Intermediate,Pads,Fracture,5,13,No,0
+184,4271,33,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Fracture,8,11,Yes,1
+185,9452,39,Male,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,None,Fracture,4,13,No,0
+186,8167,22,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Intermediate,None,Fracture,2,19,No,0
+187,9224,29,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Concussion,9,23,No,0
+188,2623,16,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Beginner,Helmet,Concussion,4,11,No,0
+189,8685,21,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Intermediate,None,Fracture,8,19,Yes,3
+190,9647,29,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,5,14,No,0
+191,7878,50,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Beginner,Helmet,Fracture,8,18,Yes,3
+192,9443,51,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,7,13,No,0
+193,7825,24,Male,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Advanced,Pads,Fracture,9,24,No,0
+194,1333,50,Female,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Advanced,None,Sprain,4,9,No,0
+195,6850,43,Male,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,Pads,Fracture,2,12,No,0
+196,3185,26,Male,Summer,Windy,Hiking,Shadow Valley,Expert,Advanced,Helmet,Sprain,5,12,No,0
+197,8840,50,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Advanced,Helmet,Fracture,3,15,No,0
+198,4268,34,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,9,22,No,0
+199,1599,20,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Advanced,Pads,Head Injury,7,10,No,0
+200,3039,39,Female,Summer,Sunny,Climbing,Thunder Run,Advanced,Advanced,Pads,Head Injury,6,14,No,0
+201,9129,18,Female,Summer,Windy,Climbing,Summit Peak,Advanced,Intermediate,Pads,Fracture,5,11,No,0
+202,2293,56,Female,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Beginner,None,Fracture,3,11,No,0
+203,5843,43,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Sprain,7,27,No,0
+204,6759,35,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Beginner,None,Fracture,4,14,No,0
+205,7655,35,Female,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,5,22,No,0
+206,1570,40,Male,Winter,Snowy,Skiing,Thunder Run,Advanced,Advanced,None,Concussion,3,13,No,0
+207,3513,40,Female,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Intermediate,None,Fracture,3,12,No,0
+208,9674,41,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,None,Fracture,7,9,No,0
+209,4048,58,Female,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,Helmet,Fracture,6,11,No,0
+210,4515,21,Female,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Intermediate,None,Fracture,5,11,No,0
+211,8292,43,Male,Summer,Sunny,Hiking,Bunny Hill,Easy,Beginner,Pads,Fracture,5,13,No,0
+212,5914,35,Male,Summer,Rainy,Mountain Biking,Shadow Valley,Expert,Beginner,None,Fracture,5,15,No,0
+213,9094,42,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,Helmet,Fracture,7,19,No,0
+214,2412,15,Male,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,None,Sprain,5,10,No,0
+215,7708,33,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Intermediate,None,Head Injury,9,18,Yes,4
+216,6644,54,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,None,Sprain,8,15,Yes,4
+217,3507,42,Female,Winter,Windy,Skiing,Rocky Pass,Intermediate,Beginner,Helmet,Sprain,5,13,No,0
+218,5653,18,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Beginner,Pads,Sprain,3,13,No,0
+219,9740,17,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,2,13,No,0
+220,6531,47,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Advanced,None,Sprain,4,12,No,0
+221,4453,17,Female,Winter,Sunny,Skiing,Shadow Valley,Expert,Advanced,Pads,Sprain,6,13,No,0
+222,7653,51,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Intermediate,Pads,Fracture,6,22,No,0
+223,8933,22,Female,Summer,Windy,Hiking,Devil’s Drop,Expert,Beginner,Pads,Sprain,6,16,No,0
+224,6658,30,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Sprain,5,16,No,0
+225,5382,32,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Beginner,Pads,Fracture,7,19,No,0
+226,7850,16,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Intermediate,Pads,Sprain,7,22,No,0
+227,8648,56,Female,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Beginner,Pads,Sprain,4,11,No,0
+228,4944,34,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Intermediate,None,Head Injury,8,16,No,0
+229,5681,23,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Intermediate,None,Sprain,2,14,No,0
+230,6995,36,Male,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Concussion,5,11,No,0
+231,2204,46,Female,Summer,Windy,Hiking,Rocky Pass,Intermediate,Beginner,Pads,Sprain,5,14,No,0
+232,3108,23,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Advanced,None,Sprain,3,17,No,0
+233,9341,36,Female,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,6,15,No,0
+234,9508,43,Female,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,5,15,No,0
+235,5902,20,Female,Winter,Foggy,Skiing,Rocky Pass,Intermediate,Intermediate,Helmet,Concussion,7,16,No,0
+236,6427,55,Male,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,Helmet,Fracture,4,16,No,0
+237,8775,52,Female,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Advanced,None,Sprain,4,11,No,0
+238,7229,36,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Advanced,None,Sprain,4,12,No,0
+239,7861,41,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Beginner,Pads,Concussion,7,15,No,0
+240,2020,21,Male,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Advanced,None,Fracture,6,11,No,0
+241,8531,42,Female,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,5,9,No,0
+242,8932,57,Male,Summer,Windy,Mountain Biking,Shadow Valley,Expert,Advanced,None,Fracture,4,12,No,0
+243,4396,40,Female,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Intermediate,Pads,Sprain,4,9,No,0
+244,2996,50,Female,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Head Injury,9,18,Yes,4
+245,6674,48,Female,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Fracture,5,15,No,0
+246,5450,19,Male,Summer,Rainy,Mountain Biking,Bunny Hill,Easy,Beginner,None,Fracture,5,12,No,0
+247,4814,33,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,None,Fracture,6,16,No,0
+248,3252,59,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Intermediate,Helmet,Sprain,6,11,No,0
+249,6262,23,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Helmet,Concussion,6,14,No,0
+250,3868,57,Female,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Advanced,None,Fracture,3,17,No,0
+251,5742,51,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Sprain,4,13,No,0
+252,9901,48,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Intermediate,Pads,Sprain,7,14,No,0
+253,8518,31,Female,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Beginner,Pads,Fracture,7,13,No,0
+254,4164,26,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,None,Sprain,4,13,No,0
+255,4027,37,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Fracture,7,14,No,0
+256,8319,32,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,1
+257,6890,55,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Helmet,Head Injury,5,17,No,0
+258,9233,30,Female,Winter,Windy,Skiing,Blue Ridge,Intermediate,Beginner,Pads,Sprain,7,11,No,0
+259,8834,21,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,Helmet,Fracture,4,9,No,0
+260,9806,22,Male,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,None,Fracture,4,11,No,0
+261,2838,45,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Pads,Fracture,4,16,No,0
+262,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+263,8484,58,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Beginner,None,Concussion,4,14,No,0
+264,1049,57,Male,Summer,Rainy,Mountain Biking,Shadow Valley,Expert,Beginner,Pads,Fracture,6,14,No,0
+265,1987,29,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Advanced,Helmet,Sprain,4,11,No,0
+266,7135,39,Female,Summer,Rainy,Hiking,Summit Peak,Advanced,Beginner,Helmet,Sprain,5,17,No,0
+267,6697,58,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,None,Fracture,10,19,Yes,2
+268,5888,49,Female,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Fracture,5,13,No,0
+269,6671,58,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Beginner,Helmet,Fracture,5,10,No,0
+270,1256,24,Male,Summer,Windy,Hiking,Thunder Run,Advanced,Beginner,Helmet,Sprain,2,17,No,0
+271,1797,15,Male,Winter,Sunny,Skiing,Rocky Pass,Intermediate,Beginner,Pads,Sprain,8,20,Yes,1
+272,3295,44,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Advanced,Helmet,Fracture,4,12,No,0
+273,9540,39,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Intermediate,Helmet,Sprain,5,15,No,0
+274,7999,18,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,None,Fracture,7,17,No,0
+275,7821,53,Female,Winter,Windy,Snowboarding,Thunder Run,Advanced,Advanced,Pads,Sprain,7,10,No,0
+276,4692,22,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Advanced,Pads,Fracture,6,10,No,0
+277,9683,59,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Intermediate,Pads,Sprain,7,11,No,0
+278,8369,40,Female,Summer,Rainy,Hiking,Bunny Hill,Easy,Intermediate,None,Fracture,3,13,No,0
+279,1647,20,Male,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Intermediate,None,Sprain,3,11,No,0
+280,4470,31,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Pads,Fracture,7,16,No,0
+281,7498,39,Male,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Advanced,None,Fracture,6,11,No,0
+282,6053,42,Female,Summer,Rainy,Climbing,Summit Peak,Advanced,Advanced,None,Head Injury,5,21,No,0
+283,6246,54,Male,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Beginner,None,Fracture,3,11,No,0
+284,1265,38,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Fracture,7,18,No,0
+285,5026,40,Female,Summer,Sunny,Climbing,Bunny Hill,Easy,Intermediate,Helmet,Head Injury,8,17,Yes,1
+286,8550,31,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Advanced,None,Head Injury,6,12,No,0
+287,9882,43,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Advanced,Pads,Fracture,3,27,No,0
+288,4791,48,Male,Winter,Sunny,Skiing,Thunder Run,Advanced,Beginner,Pads,Fracture,5,11,No,0
+289,8916,38,Female,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,5,12,No,0
+290,5501,55,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,None,Sprain,8,18,No,0
+291,4948,50,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,None,Fracture,10,20,Yes,2
+292,7652,57,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,Helmet,Head Injury,7,12,No,0
+293,1519,57,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Beginner,None,Sprain,7,10,No,0
+294,3807,16,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,12,Yes,4
+295,9653,27,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,None,Fracture,9,11,Yes,4
+296,5593,45,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,8,10,Yes,4
+297,7525,49,Male,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,Helmet,Sprain,5,15,No,0
+298,7288,24,Male,Summer,Windy,Hiking,Bunny Hill,Easy,Advanced,Pads,Sprain,5,10,No,0
+299,6580,29,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,7,17,No,0
+300,6829,34,Female,Summer,Windy,Hiking,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,3,14,No,0
+301,5839,31,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Advanced,Pads,Fracture,5,11,No,0
+302,3527,32,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,None,Sprain,4,13,No,0
+303,6896,26,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,8,23,No,0
+304,9395,37,Female,Winter,Sunny,Skiing,Bunny Hill,Easy,Intermediate,Pads,Sprain,7,17,No,0
+305,6315,18,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Advanced,Helmet,Sprain,4,12,No,0
+306,4977,25,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Beginner,None,Sprain,4,16,No,0
+307,3390,34,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Intermediate,Pads,Sprain,5,12,No,0
+308,6916,35,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Fracture,6,12,No,0
+309,1110,19,Female,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Concussion,8,13,Yes,1
+310,8055,52,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Intermediate,Pads,Fracture,5,16,No,0
+311,3910,29,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Beginner,Pads,Head Injury,6,14,No,0
+312,6339,39,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,8,12,Yes,2
+313,1440,21,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Fracture,7,19,No,0
+314,9180,38,Male,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Advanced,Helmet,Concussion,6,12,No,0
+315,7176,34,Male,Summer,Rainy,Hiking,Shadow Valley,Expert,Beginner,None,Sprain,5,19,No,0
+316,9907,36,Male,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Intermediate,None,Fracture,6,16,No,0
+317,5067,22,Female,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,4,12,No,0
+318,1172,32,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Pads,Fracture,5,19,No,0
+319,8303,52,Female,Summer,Windy,Hiking,Shadow Valley,Expert,Advanced,None,Fracture,3,16,No,0
+320,6651,38,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Advanced,None,Fracture,5,10,No,0
+321,6707,36,Female,Summer,Rainy,Hiking,Summit Peak,Advanced,Beginner,Helmet,Fracture,2,11,No,0
+322,2599,47,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Head Injury,8,14,Yes,4
+323,1370,44,Female,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Beginner,None,Fracture,6,15,No,0
+324,6422,53,Female,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Beginner,None,Fracture,3,10,No,0
+325,7481,56,Male,Summer,Rainy,Hiking,Shadow Valley,Expert,Beginner,Helmet,Sprain,3,15,No,0
+326,4371,17,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Beginner,None,Fracture,7,10,No,0
+327,2867,26,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Intermediate,Helmet,Concussion,5,9,No,0
+328,2871,34,Female,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Advanced,Pads,Fracture,6,11,No,0
+329,2388,30,Male,Summer,Windy,Climbing,Bunny Hill,Easy,Advanced,None,Head Injury,7,20,No,0
+330,3316,17,Female,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,5,17,No,0
+331,8973,25,Male,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Pads,Sprain,5,18,No,0
+332,1878,46,Female,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Beginner,Pads,Concussion,5,15,No,0
+333,9109,55,Female,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Intermediate,None,Sprain,6,14,No,0
+334,2354,49,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,Pads,Fracture,7,14,No,0
+335,3755,35,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Beginner,None,Concussion,8,13,Yes,2
+336,9898,51,Female,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Advanced,Helmet,Fracture,7,20,No,0
+337,5055,38,Female,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,None,Sprain,7,15,No,0
+338,4882,50,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,Pads,Fracture,5,12,No,0
+339,4385,16,Male,Summer,Windy,Mountain Biking,Shadow Valley,Expert,Intermediate,Helmet,Sprain,4,8,No,0
+340,5794,26,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Concussion,5,14,No,0
+341,1971,29,Female,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Beginner,Helmet,Fracture,5,18,No,0
+342,7434,44,Female,Winter,Snowy,Skiing,Bunny Hill,Easy,Advanced,Pads,Fracture,3,11,No,0
+343,2525,59,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Sprain,5,11,No,0
+344,2526,28,Female,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Intermediate,Pads,Sprain,3,12,No,0
+345,9105,53,Female,Summer,Windy,Hiking,Summit Peak,Advanced,Beginner,Pads,Fracture,5,19,No,0
+346,6631,16,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Head Injury,5,11,No,0
+347,8479,54,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Concussion,8,21,No,0
+348,5489,17,Male,Summer,Windy,Hiking,Bunny Hill,Easy,Advanced,Pads,Fracture,5,17,No,0
+349,1848,55,Female,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Advanced,None,Fracture,6,18,No,0
+350,2559,26,Male,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Beginner,Pads,Sprain,3,19,No,0
+351,8291,42,Male,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,Helmet,Sprain,4,15,No,0
+352,8826,26,Male,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Intermediate,None,Fracture,4,16,No,0
+353,7022,42,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Concussion,8,14,Yes,4
+354,9691,28,Male,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Fracture,7,12,No,0
+355,3480,40,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,None,Sprain,5,12,No,0
+356,6759,51,Female,Summer,Sunny,Hiking,Devil’s Drop,Expert,Beginner,Helmet,Sprain,4,20,No,0
+357,5668,34,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,2,19,No,0
+358,5842,48,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,2,19,No,0
+359,2163,45,Male,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Sprain,7,21,No,0
+360,9951,34,Male,Summer,Sunny,Climbing,Summit Peak,Advanced,Advanced,Pads,Head Injury,7,19,No,0
+361,4534,22,Male,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Beginner,Helmet,Sprain,4,13,No,0
+362,7939,43,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Advanced,None,Concussion,5,11,No,0
+363,4329,15,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,10,17,Yes,2
+364,6081,32,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,None,Fracture,6,10,No,0
+365,1901,26,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Concussion,6,18,No,0
+366,3684,47,Female,Winter,Sunny,Skiing,Shadow Valley,Expert,Beginner,None,Fracture,5,11,No,0
+367,7092,19,Male,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Advanced,Pads,Sprain,3,11,No,0
+368,5456,20,Male,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Beginner,Pads,Fracture,3,10,No,0
+369,9368,27,Female,Summer,Windy,Mountain Biking,Shadow Valley,Expert,Beginner,Pads,Fracture,5,9,No,0
+370,2889,25,Male,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Beginner,Pads,Fracture,4,11,No,0
+371,7274,18,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Beginner,Pads,Concussion,6,16,No,0
+372,6241,55,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Concussion,8,14,Yes,1
+373,4656,21,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,6,10,No,0
+374,2415,21,Female,Summer,Rainy,Hiking,Thunder Run,Advanced,Intermediate,Pads,Sprain,2,13,No,0
+375,4974,46,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Sprain,8,11,Yes,1
+376,3466,25,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Beginner,None,Sprain,3,11,No,0
+377,6488,16,Male,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Intermediate,None,Fracture,4,10,No,0
+378,7878,22,Female,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,4,25,No,0
+379,7767,40,Female,Winter,Foggy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Sprain,7,19,No,0
+380,7461,51,Male,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Beginner,None,Sprain,3,18,No,0
+381,7438,37,Female,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Intermediate,Pads,Concussion,7,22,No,0
+382,2785,35,Male,Summer,Rainy,Climbing,Bunny Hill,Easy,Beginner,Helmet,Fracture,6,13,No,0
+383,9780,25,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Intermediate,Pads,Fracture,5,10,No,0
+384,3582,18,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Fracture,6,13,No,0
+385,6828,42,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Beginner,None,Fracture,7,16,No,0
+386,8408,44,Male,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Concussion,6,13,No,0
+387,2010,40,Male,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Fracture,5,11,No,0
+388,2376,58,Female,Winter,Windy,Skiing,Blue Ridge,Intermediate,Advanced,None,Sprain,3,15,No,0
+389,2506,56,Female,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Fracture,4,11,No,0
+390,7471,15,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,None,Concussion,10,23,No,0
+391,5505,27,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Intermediate,Helmet,Fracture,7,10,No,0
+392,5835,42,Female,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Advanced,None,Fracture,4,13,No,0
+393,3248,38,Female,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Beginner,Pads,Fracture,5,19,No,0
+394,9921,38,Female,Winter,Sunny,Skiing,Summit Peak,Advanced,Advanced,Pads,Concussion,4,13,No,0
+395,1427,18,Female,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,Pads,Sprain,6,17,No,0
+396,4813,53,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,None,Concussion,7,20,No,0
+397,4594,24,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,None,Fracture,4,13,No,0
+398,1462,49,Female,Summer,Sunny,Hiking,Bunny Hill,Easy,Advanced,Pads,Sprain,2,15,No,0
+399,1621,31,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Intermediate,Helmet,Concussion,6,11,No,0
+400,6435,21,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,17,Yes,4
+401,3420,39,Male,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Fracture,6,14,No,0
+402,2655,32,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Advanced,None,Concussion,5,11,No,0
+403,6198,55,Male,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,Pads,Head Injury,7,21,No,0
+404,5825,52,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Beginner,Pads,Sprain,2,13,No,0
+405,6213,50,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Advanced,Helmet,Fracture,4,11,No,0
+406,6682,53,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+407,5088,19,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,Pads,Fracture,6,15,No,0
+408,8179,22,Female,Summer,Sunny,Climbing,Shadow Valley,Expert,Beginner,Helmet,Head Injury,8,9,Yes,2
+409,2661,17,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,None,Concussion,5,14,No,0
+410,6221,37,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,22,Yes,2
+411,2228,50,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Sprain,8,12,Yes,2
+412,3703,30,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Advanced,Helmet,Fracture,3,11,No,0
+413,9849,30,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Concussion,4,11,No,0
+414,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+415,4271,54,Male,Summer,Rainy,Hiking,Devil’s Drop,Expert,Intermediate,None,Sprain,7,19,No,0
+416,2892,34,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Helmet,Concussion,8,16,Yes,1
+417,4029,30,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Intermediate,Helmet,Head Injury,6,12,No,0
+418,8619,50,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Beginner,Pads,Head Injury,8,14,Yes,2
+419,2404,55,Female,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,None,Fracture,4,14,No,0
+420,9773,15,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Beginner,Pads,Fracture,3,16,No,0
+421,9226,40,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,None,Fracture,9,18,No,0
+422,1699,51,Female,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Beginner,Helmet,Fracture,7,13,No,0
+423,5225,49,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,Helmet,Sprain,7,10,No,0
+424,5525,28,Female,Winter,Windy,Skiing,Rocky Pass,Intermediate,Intermediate,None,Concussion,8,13,Yes,4
+425,2641,28,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Sprain,4,12,No,0
+426,8955,16,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Sprain,7,13,No,0
+427,7581,45,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,None,Sprain,3,19,No,0
+428,5400,17,Female,Summer,Windy,Climbing,Bunny Hill,Easy,Beginner,None,Head Injury,5,17,No,0
+429,2609,48,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Intermediate,Pads,Sprain,6,15,No,0
+430,7828,46,Male,Winter,Windy,Snowboarding,Thunder Run,Advanced,Intermediate,Pads,Sprain,8,10,Yes,4
+431,9462,32,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,None,Concussion,7,7,No,0
+432,3222,43,Male,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Advanced,None,Concussion,7,10,No,0
+433,8478,33,Male,Winter,Snowy,Skiing,Thunder Run,Advanced,Beginner,Helmet,Fracture,5,18,No,0
+434,3029,25,Male,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,5,13,No,0
+435,6730,23,Female,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Intermediate,Helmet,Concussion,5,10,No,0
+436,3669,21,Male,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Beginner,Pads,Fracture,6,12,No,0
+437,1328,54,Male,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Sprain,6,19,No,0
+438,5135,43,Female,Summer,Windy,Hiking,Bunny Hill,Easy,Advanced,Helmet,Fracture,2,14,No,0
+439,4575,51,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,Pads,Head Injury,8,15,Yes,2
+440,1120,49,Female,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Advanced,Pads,Sprain,6,17,No,0
+441,5529,51,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Intermediate,Helmet,Head Injury,9,20,No,0
+442,3456,52,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,9,15,Yes,2
+443,9148,19,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,None,Fracture,8,12,Yes,3
+444,6622,59,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Advanced,Helmet,Fracture,5,13,No,0
+445,5813,25,Male,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,3,11,No,0
+446,6499,40,Male,Summer,Windy,Hiking,Blue Ridge,Intermediate,Advanced,None,Fracture,4,18,No,0
+447,7089,32,Female,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Intermediate,Pads,Concussion,7,11,No,0
+448,8736,52,Male,Summer,Sunny,Climbing,Summit Peak,Advanced,Beginner,None,Fracture,7,18,No,0
+449,4281,55,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Fracture,5,11,No,0
+450,2324,15,Female,Summer,Rainy,Mountain Biking,Bunny Hill,Easy,Intermediate,None,Sprain,6,11,No,0
+451,8406,24,Female,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Advanced,Helmet,Sprain,4,18,No,0
+452,8105,48,Female,Winter,Snowy,Skiing,Summit Peak,Advanced,Beginner,Helmet,Sprain,4,19,No,0
+453,7112,31,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,7,17,No,0
+454,4707,19,Female,Summer,Sunny,Mountain Biking,Devil’s Drop,Expert,Advanced,Helmet,Sprain,8,19,No,0
+455,3736,22,Male,Summer,Sunny,Hiking,Summit Peak,Advanced,Advanced,None,Sprain,5,9,No,0
+456,9587,38,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Advanced,None,Sprain,8,15,Yes,3
+457,3701,25,Female,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Intermediate,Pads,Sprain,3,17,No,0
+458,1359,42,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Beginner,Helmet,Sprain,6,14,No,0
+459,1796,24,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,6,16,No,0
+460,7230,45,Male,Winter,Sunny,Skiing,Shadow Valley,Expert,Beginner,Pads,Concussion,8,9,Yes,1
+461,5933,39,Female,Summer,Windy,Climbing,Bunny Hill,Easy,Beginner,None,Fracture,5,11,No,0
+462,2928,24,Female,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,None,Sprain,5,14,No,0
+463,9571,16,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Concussion,7,11,No,0
+464,4402,30,Female,Summer,Rainy,Mountain Biking,Blue Ridge,Intermediate,Beginner,Helmet,Fracture,4,14,No,0
+465,9095,24,Male,Summer,Sunny,Hiking,Devil’s Drop,Expert,Advanced,Helmet,Fracture,7,19,No,0
+466,5850,39,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Advanced,Helmet,Concussion,3,17,No,0
+467,6901,35,Female,Summer,Sunny,Hiking,Thunder Run,Advanced,Beginner,Helmet,Sprain,3,11,No,0
+468,3793,53,Female,Summer,Sunny,Mountain Biking,Devil’s Drop,Expert,Beginner,Helmet,Sprain,7,19,No,0
+469,6615,35,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Advanced,Helmet,Head Injury,5,9,No,0
+470,8835,58,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Sprain,8,13,Yes,3
+471,2699,39,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Advanced,Helmet,Fracture,5,14,No,0
+472,6875,16,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Beginner,None,Fracture,4,18,No,0
+473,2037,45,Female,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,2
+474,6542,27,Male,Summer,Windy,Hiking,Thunder Run,Advanced,Advanced,None,Fracture,4,16,No,0
+475,3435,17,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Intermediate,Pads,Fracture,4,22,No,0
+476,9055,58,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Fracture,8,19,Yes,3
+477,7203,56,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Sprain,7,19,No,0
+478,9166,56,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Advanced,Pads,Fracture,4,12,No,0
+479,7609,53,Female,Summer,Rainy,Hiking,Shadow Valley,Expert,Advanced,Helmet,Fracture,3,9,No,0
+480,5990,27,Male,Winter,Sunny,Skiing,Thunder Run,Advanced,Advanced,None,Sprain,5,13,No,0
+481,6439,40,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,Helmet,Head Injury,5,10,No,0
+482,1035,45,Female,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Beginner,None,Sprain,6,23,No,0
+483,1750,18,Male,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Advanced,Pads,Sprain,5,7,No,0
+484,5166,38,Male,Summer,Windy,Hiking,Shadow Valley,Expert,Advanced,Pads,Fracture,4,17,No,0
+485,6536,54,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Sprain,8,16,Yes,1
+486,8381,34,Female,Summer,Windy,Hiking,Thunder Run,Advanced,Advanced,None,Fracture,4,14,No,0
+487,8091,28,Female,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,4,9,No,0
+488,6273,18,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,None,Sprain,8,16,No,0
+489,6617,32,Female,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Beginner,Pads,Fracture,6,19,No,0
+490,9975,33,Female,Summer,Sunny,Hiking,Summit Peak,Advanced,Advanced,None,Sprain,4,13,No,0
+491,6657,52,Male,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Advanced,Pads,Sprain,8,16,Yes,2
+492,7839,59,Female,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Intermediate,None,Concussion,8,12,Yes,4
+493,1869,47,Male,Summer,Windy,Hiking,Devil’s Drop,Expert,Beginner,Pads,Fracture,7,16,No,0
+494,2016,42,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Fracture,5,13,No,0
+495,4675,59,Female,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Sprain,5,14,No,0
+496,6122,41,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Sprain,4,17,No,0
+497,7025,30,Male,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,7,13,No,0
+498,3847,17,Male,Winter,Windy,Snowboarding,Bunny Hill,Easy,Advanced,Helmet,Fracture,8,13,Yes,2
+499,3636,59,Female,Summer,Rainy,Hiking,Blue Ridge,Intermediate,Advanced,Pads,Fracture,2,15,No,0
+500,6285,51,Male,Winter,Windy,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Fracture,4,14,No,0
+501,9608,50,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Head Injury,8,9,Yes,1
+502,2506,49,Female,Winter,Snowy,Skiing,Summit Peak,Advanced,Advanced,None,Concussion,8,12,Yes,3
+503,9691,34,Female,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,3,12,No,0
+504,4994,42,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,None,Sprain,3,10,No,0
+505,1404,24,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Intermediate,None,Head Injury,7,13,No,0
+506,9419,23,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Advanced,Helmet,Head Injury,6,11,No,0
+507,4492,35,Female,Winter,Sunny,Skiing,Shadow Valley,Expert,Beginner,Helmet,Sprain,7,17,No,0
+508,3519,20,Male,Winter,Windy,Skiing,Shadow Valley,Expert,Beginner,None,Sprain,6,14,No,0
+509,3916,25,Female,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Beginner,Helmet,Sprain,7,17,No,0
+510,7626,28,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,Pads,Sprain,6,15,No,0
+511,2036,19,Male,Summer,Rainy,Hiking,Shadow Valley,Expert,Beginner,None,Fracture,2,11,No,0
+512,2417,33,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Sprain,6,13,No,0
+513,3561,55,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Advanced,Helmet,Head Injury,7,10,No,0
+514,7113,56,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,Pads,Sprain,4,12,No,0
+515,9800,31,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Advanced,None,Concussion,6,19,No,0
+516,7760,36,Male,Summer,Windy,Hiking,Shadow Valley,Expert,Advanced,Pads,Fracture,5,11,No,0
+517,3971,20,Male,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,3,13,No,0
+518,5107,16,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Intermediate,None,Sprain,6,21,No,0
+519,4842,53,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,None,Sprain,4,9,No,0
+520,6379,52,Female,Summer,Sunny,Mountain Biking,Bunny Hill,Easy,Intermediate,Pads,Fracture,4,13,No,0
+521,5033,46,Male,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Concussion,7,10,No,0
+522,8863,36,Female,Summer,Rainy,Climbing,Bunny Hill,Easy,Advanced,None,Head Injury,9,13,Yes,2
+523,2343,41,Female,Summer,Rainy,Climbing,Summit Peak,Advanced,Advanced,Helmet,Fracture,9,14,Yes,2
+524,2235,40,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Advanced,Helmet,Sprain,7,11,No,0
+525,9842,47,Female,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Advanced,Pads,Sprain,7,21,No,0
+526,3193,37,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Advanced,None,Concussion,5,14,No,0
+527,3717,19,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,None,Fracture,4,14,No,0
+528,8921,22,Female,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Advanced,None,Fracture,4,13,No,0
+529,4834,35,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Beginner,Pads,Concussion,6,13,No,0
+530,6309,54,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Fracture,4,13,No,0
+531,7171,26,Female,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Advanced,None,Sprain,4,11,No,0
+532,7165,17,Male,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Beginner,None,Fracture,4,13,No,0
+533,9222,22,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Intermediate,None,Fracture,7,12,No,0
+534,4465,51,Male,Summer,Sunny,Hiking,Devil’s Drop,Expert,Advanced,None,Sprain,4,19,No,0
+535,4773,15,Female,Winter,Foggy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,6,12,No,0
+536,4452,44,Male,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Advanced,Pads,Fracture,5,15,No,0
+537,3207,17,Male,Summer,Sunny,Hiking,Devil’s Drop,Expert,Beginner,None,Fracture,4,15,No,0
+538,1305,49,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Beginner,None,Concussion,3,14,No,0
+539,4594,52,Female,Winter,Windy,Skiing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,7,17,No,0
+540,8429,25,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Advanced,None,Concussion,4,10,No,0
+541,9564,35,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Beginner,Helmet,Fracture,5,9,No,0
+542,9706,44,Male,Winter,Snowy,Skiing,Summit Peak,Advanced,Advanced,None,Fracture,4,10,No,0
+543,8069,40,Female,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,5,12,No,0
+544,7246,48,Female,Summer,Windy,Hiking,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,3,10,No,0
+545,5641,25,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Intermediate,Helmet,Fracture,4,13,No,0
+546,9515,31,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Advanced,Helmet,Fracture,2,17,No,0
+547,2746,41,Male,Summer,Sunny,Mountain Biking,Shadow Valley,Expert,Intermediate,Pads,Fracture,3,12,No,0
+548,6990,42,Female,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,None,Fracture,5,12,No,0
+549,7065,15,Female,Summer,Rainy,Hiking,Rocky Pass,Intermediate,Advanced,Pads,Fracture,4,11,No,0
+550,2951,52,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,7,12,No,0
+551,6544,28,Male,Summer,Sunny,Mountain Biking,Devil’s Drop,Expert,Beginner,None,Fracture,7,18,No,0
+552,8133,49,Male,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Concussion,7,12,No,0
+553,7296,47,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Beginner,None,Fracture,7,14,No,0
+554,8192,41,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Beginner,None,Fracture,6,20,No,0
+555,4795,50,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Advanced,None,Sprain,8,28,No,0
+556,5520,28,Female,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Fracture,8,19,Yes,2
+557,2124,38,Male,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Advanced,Helmet,Sprain,5,12,No,0
+558,4707,33,Male,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,4,10,No,0
+559,9294,42,Male,Summer,Windy,Climbing,Devil’s Drop,Expert,Intermediate,Helmet,Head Injury,9,18,No,0
+560,5098,23,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Pads,Sprain,10,17,No,0
+561,8548,33,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Beginner,Pads,Fracture,5,15,No,0
+562,4767,50,Female,Summer,Rainy,Hiking,Devil’s Drop,Expert,Intermediate,None,Fracture,6,22,No,0
+563,5067,25,Female,Summer,Windy,Climbing,Rocky Pass,Intermediate,Beginner,None,Head Injury,5,19,No,0
+564,6142,55,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Concussion,10,23,Yes,2
+565,4271,36,Male,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Concussion,7,10,No,0
+566,6833,44,Male,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Beginner,Helmet,Sprain,4,16,No,0
+567,1108,19,Male,Winter,Sunny,Skiing,Shadow Valley,Expert,Advanced,Pads,Sprain,6,11,No,0
+568,9041,23,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Intermediate,None,Head Injury,8,12,Yes,1
+569,9613,40,Female,Summer,Sunny,Climbing,Thunder Run,Advanced,Advanced,Helmet,Fracture,9,15,Yes,3
+570,8490,52,Male,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Pads,Sprain,6,18,No,0
+571,7216,21,Male,Summer,Windy,Climbing,Devil’s Drop,Expert,Beginner,None,Fracture,10,19,Yes,3
+572,4885,17,Female,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,Helmet,Head Injury,8,12,Yes,1
+573,4449,41,Female,Summer,Rainy,Mountain Biking,Blue Ridge,Intermediate,Beginner,Pads,Fracture,4,15,No,0
+574,4744,20,Male,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Intermediate,Helmet,Fracture,5,21,No,0
+575,3450,26,Female,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,Helmet,Fracture,3,15,No,0
+576,9748,28,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Beginner,None,Sprain,8,13,Yes,4
+577,2621,27,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Head Injury,7,19,No,0
+578,6483,35,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Advanced,Helmet,Concussion,7,12,No,0
+579,7746,55,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,9,15,Yes,3
+580,5663,31,Female,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Advanced,None,Sprain,3,11,No,0
+581,7243,55,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Advanced,Pads,Sprain,6,15,No,0
+582,7911,33,Female,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Beginner,None,Fracture,5,19,No,0
+583,5773,15,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Beginner,Pads,Concussion,5,12,No,0
+584,7782,59,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,None,Head Injury,8,13,Yes,1
+585,2311,40,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Beginner,None,Concussion,6,14,No,0
+586,1881,59,Male,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Sprain,10,19,No,0
+587,2381,32,Female,Summer,Sunny,Mountain Biking,Devil’s Drop,Expert,Intermediate,None,Sprain,7,14,No,0
+588,3150,50,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Intermediate,Pads,Fracture,3,12,No,0
+589,9856,54,Female,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Pads,Concussion,4,9,No,0
+590,8126,29,Female,Summer,Windy,Hiking,Rocky Pass,Intermediate,Beginner,None,Sprain,5,9,No,0
+591,6992,55,Female,Summer,Windy,Climbing,Bunny Hill,Easy,Beginner,Pads,Head Injury,5,11,No,0
+592,6634,24,Female,Summer,Rainy,Hiking,Devil’s Drop,Expert,Beginner,None,Fracture,5,18,No,0
+593,1149,53,Female,Summer,Sunny,Mountain Biking,Shadow Valley,Expert,Intermediate,Pads,Fracture,4,13,No,0
+594,4089,16,Female,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Beginner,None,Fracture,6,10,No,0
+595,7199,16,Male,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,None,Head Injury,9,9,Yes,4
+596,5664,57,Female,Summer,Rainy,Hiking,Shadow Valley,Expert,Beginner,None,Sprain,2,13,No,0
+597,8460,51,Female,Summer,Sunny,Hiking,Bunny Hill,Easy,Beginner,Pads,Fracture,2,11,No,0
+598,3492,39,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Beginner,Pads,Sprain,3,12,No,0
+599,8183,57,Male,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Intermediate,Helmet,Sprain,3,11,No,0
+600,7885,23,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Concussion,7,20,No,0
+601,3393,48,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,Pads,Fracture,9,12,Yes,4
+602,5097,55,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,7,18,No,0
+603,1549,50,Male,Winter,Snowy,Skiing,Summit Peak,Advanced,Intermediate,Helmet,Sprain,5,17,No,0
+604,7375,42,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,6,12,No,0
+605,5150,15,Female,Summer,Windy,Hiking,Shadow Valley,Expert,Beginner,None,Fracture,2,11,No,0
+606,4866,24,Female,Summer,Rainy,Hiking,Devil’s Drop,Expert,Advanced,Helmet,Fracture,4,15,No,0
+607,7484,25,Male,Summer,Sunny,Hiking,Thunder Run,Advanced,Intermediate,None,Fracture,5,15,No,0
+608,2466,26,Male,Winter,Windy,Skiing,Shadow Valley,Expert,Advanced,Helmet,Concussion,3,16,No,0
+609,1983,59,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Advanced,Pads,Sprain,4,10,No,0
+610,8992,57,Male,Summer,Sunny,Mountain Biking,Shadow Valley,Expert,Advanced,Helmet,Sprain,6,10,No,0
+611,1349,20,Female,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Intermediate,Pads,Sprain,6,20,No,0
+612,5828,56,Female,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Beginner,Pads,Fracture,5,11,No,0
+613,3627,51,Male,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Concussion,7,10,No,0
+614,8439,23,Male,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Intermediate,None,Concussion,6,12,No,0
+615,6254,31,Male,Summer,Sunny,Mountain Biking,Devil’s Drop,Expert,Advanced,Pads,Sprain,5,15,No,0
+616,5638,27,Female,Summer,Windy,Hiking,Shadow Valley,Expert,Intermediate,None,Fracture,2,9,No,0
+617,1717,37,Male,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Beginner,None,Sprain,6,18,No,0
+618,1521,59,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,8,21,No,0
+619,7002,58,Male,Summer,Windy,Mountain Biking,Shadow Valley,Expert,Advanced,Pads,Sprain,5,8,No,0
+620,1994,15,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Helmet,Concussion,7,10,No,0
+621,2153,31,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,16,Yes,4
+622,7313,38,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Advanced,Helmet,Sprain,8,19,No,0
+623,2728,22,Female,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Advanced,None,Concussion,4,17,No,0
+624,7579,33,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Beginner,Helmet,Sprain,6,13,No,0
+625,7755,59,Female,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Concussion,6,11,No,0
+626,5162,31,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,5,11,No,0
+627,1267,31,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Head Injury,10,17,Yes,2
+628,5521,58,Male,Summer,Rainy,Hiking,Bunny Hill,Easy,Beginner,Pads,Fracture,4,11,No,0
+629,7014,50,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Concussion,6,12,No,0
+630,4562,29,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Pads,Sprain,9,19,No,0
+631,5921,31,Male,Summer,Sunny,Climbing,Summit Peak,Advanced,Advanced,None,Fracture,7,16,No,0
+632,7824,42,Male,Summer,Sunny,Hiking,Thunder Run,Advanced,Intermediate,Pads,Sprain,4,9,No,0
+633,6231,21,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Intermediate,None,Fracture,8,26,No,0
+634,8300,22,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Beginner,Helmet,Fracture,3,10,No,0
+635,6507,52,Male,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Fracture,7,15,No,0
+636,2393,45,Female,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Advanced,Pads,Fracture,7,14,No,0
+637,8993,43,Female,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Beginner,Pads,Sprain,5,10,No,0
+638,2467,35,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,Pads,Concussion,10,22,Yes,2
+639,1396,44,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Head Injury,8,11,Yes,4
+640,4825,51,Male,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Beginner,Pads,Fracture,4,11,No,0
+641,4982,49,Male,Summer,Windy,Hiking,Thunder Run,Advanced,Beginner,Helmet,Fracture,2,11,No,0
+642,8719,48,Male,Summer,Rainy,Hiking,Shadow Valley,Expert,Beginner,Pads,Sprain,3,12,No,0
+643,9991,45,Female,Summer,Windy,Hiking,Rocky Pass,Intermediate,Beginner,Helmet,Sprain,3,13,No,0
+644,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,None,Fracture,8,10,Yes,2
+645,1869,56,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,None,Concussion,8,13,Yes,2
+646,6901,16,Male,Winter,Windy,Skiing,Shadow Valley,Expert,Intermediate,None,Sprain,6,10,No,0
+647,2631,48,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Intermediate,None,Sprain,5,18,No,0
+648,1352,41,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Beginner,Helmet,Fracture,7,23,No,0
+649,1301,55,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,None,Fracture,8,15,Yes,1
+650,2015,31,Female,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,None,Head Injury,9,16,Yes,3
+651,7436,24,Male,Summer,Windy,Hiking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,4,24,No,0
+652,7987,46,Female,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,None,Fracture,7,12,No,0
+653,9869,38,Male,Summer,Windy,Climbing,Bunny Hill,Easy,Beginner,None,Fracture,6,12,No,0
+654,3589,32,Female,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,None,Sprain,7,11,No,0
+655,6221,32,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Beginner,None,Fracture,6,18,No,0
+656,3489,29,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Advanced,None,Head Injury,6,13,No,0
+657,4783,40,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,None,Concussion,6,16,No,0
+658,9230,37,Female,Winter,Foggy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,7,20,No,0
+659,4166,43,Male,Summer,Rainy,Hiking,Summit Peak,Advanced,Intermediate,Helmet,Fracture,5,12,No,0
+660,4323,33,Male,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Intermediate,Helmet,Sprain,7,12,No,0
+661,6323,50,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Advanced,Pads,Sprain,3,11,No,0
+662,7232,20,Female,Winter,Windy,Snowboarding,Thunder Run,Advanced,Beginner,None,Sprain,5,9,No,0
+663,9530,31,Male,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Advanced,None,Sprain,6,11,No,0
+664,1643,41,Female,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,None,Head Injury,6,9,No,0
+665,8558,27,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,Pads,Concussion,3,11,No,0
+666,8595,23,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,None,Fracture,10,15,Yes,2
+667,3216,51,Female,Winter,Snowy,Skiing,Thunder Run,Advanced,Advanced,None,Sprain,7,20,No,0
+668,8449,53,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Beginner,Pads,Fracture,8,16,No,0
+669,2494,32,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,9,Yes,4
+670,9383,21,Male,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Advanced,None,Fracture,8,23,No,0
+671,3656,50,Male,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Beginner,Pads,Sprain,5,14,No,0
+672,5731,25,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Intermediate,None,Concussion,4,11,No,0
+673,8514,37,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,17,Yes,1
+674,8794,22,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,3,11,No,0
+675,9967,58,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,12,Yes,4
+676,1601,15,Male,Winter,Snowy,Skiing,Bunny Hill,Easy,Beginner,None,Concussion,7,9,No,0
+677,3920,24,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Beginner,Helmet,Concussion,10,22,No,0
+678,8460,27,Female,Summer,Windy,Mountain Biking,Shadow Valley,Expert,Advanced,None,Sprain,3,12,No,0
+679,8001,49,Male,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,7,10,No,0
+680,9635,26,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Advanced,Pads,Head Injury,7,17,No,0
+681,9666,50,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Advanced,None,Sprain,10,20,Yes,1
+682,6185,34,Female,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Advanced,Pads,Fracture,4,20,No,0
+683,9069,54,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Intermediate,None,Sprain,4,14,No,0
+684,2932,20,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,Helmet,Concussion,10,17,No,0
+685,1185,26,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,None,Fracture,9,15,Yes,3
+686,1100,50,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,None,Head Injury,7,15,No,0
+687,3877,22,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Advanced,None,Fracture,7,14,No,0
+688,8888,43,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Intermediate,Helmet,Fracture,9,18,Yes,3
+689,9537,27,Female,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Intermediate,None,Sprain,3,11,No,0
+690,6793,18,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Beginner,None,Fracture,7,15,No,0
+691,3719,25,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Intermediate,None,Sprain,5,20,No,0
+692,5448,40,Female,Winter,Foggy,Skiing,Shadow Valley,Expert,Intermediate,None,Fracture,6,12,No,0
+693,9603,39,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,7,14,No,0
+694,8270,27,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Beginner,Helmet,Fracture,4,16,No,0
+695,6363,45,Male,Summer,Sunny,Mountain Biking,Bunny Hill,Easy,Intermediate,Pads,Fracture,3,14,No,0
+696,9558,52,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Beginner,Pads,Concussion,6,16,No,0
+697,8649,40,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Concussion,7,13,No,0
+698,6257,55,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Intermediate,None,Fracture,4,9,No,0
+699,2927,52,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Intermediate,Pads,Sprain,6,11,No,0
+700,9422,35,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Beginner,None,Sprain,8,18,No,0
+701,5011,32,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,None,Concussion,8,13,Yes,2
+702,1475,17,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,5,12,No,0
+703,3932,57,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Concussion,10,15,Yes,1
+704,8629,58,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,None,Fracture,8,12,Yes,4
+705,8625,25,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,None,Sprain,4,10,No,0
+706,7423,52,Male,Winter,Snowy,Skiing,Thunder Run,Advanced,Advanced,Pads,Concussion,7,18,No,0
+707,2849,22,Female,Summer,Rainy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Head Injury,6,12,No,0
+708,9322,44,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,None,Fracture,9,12,Yes,4
+709,5949,34,Female,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Advanced,None,Sprain,3,16,No,0
+710,8903,58,Female,Summer,Rainy,Mountain Biking,Bunny Hill,Easy,Advanced,Helmet,Sprain,6,13,No,0
+711,8132,42,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,None,Concussion,4,12,No,0
+712,2873,38,Female,Winter,Sunny,Skiing,Shadow Valley,Expert,Advanced,None,Concussion,6,11,No,0
+713,7648,22,Male,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Intermediate,Helmet,Fracture,4,13,No,0
+714,2483,43,Male,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Advanced,None,Fracture,6,15,No,0
+715,5775,21,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Beginner,Pads,Sprain,5,25,No,0
+716,8122,44,Female,Summer,Sunny,Hiking,Shadow Valley,Expert,Intermediate,Pads,Sprain,2,13,No,0
+717,7049,40,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Beginner,Pads,Fracture,5,11,No,0
+718,8073,34,Female,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Fracture,4,12,No,0
+719,3841,15,Female,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Intermediate,Pads,Sprain,3,15,No,0
+720,5726,15,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Pads,Fracture,4,12,No,0
+721,8974,55,Female,Winter,Sunny,Skiing,Shadow Valley,Expert,Beginner,Helmet,Sprain,3,11,No,0
+722,7974,35,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Pads,Sprain,7,17,No,0
+723,4698,59,Male,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,5,13,No,0
+724,9220,40,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Intermediate,None,Sprain,6,14,No,0
+725,7038,37,Male,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Beginner,Helmet,Fracture,6,16,No,0
+726,8617,59,Male,Summer,Sunny,Mountain Biking,Bunny Hill,Easy,Advanced,None,Fracture,4,11,No,0
+727,2279,53,Female,Winter,Windy,Skiing,Shadow Valley,Expert,Advanced,None,Sprain,7,15,No,0
+728,6431,29,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,None,Concussion,7,15,No,0
+729,5267,38,Male,Summer,Rainy,Climbing,Bunny Hill,Easy,Beginner,None,Head Injury,7,22,No,0
+730,1447,48,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Beginner,None,Fracture,5,11,No,0
+731,3171,17,Female,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Beginner,Pads,Sprain,2,14,No,0
+732,3476,37,Female,Summer,Sunny,Climbing,Shadow Valley,Expert,Beginner,None,Fracture,6,11,No,0
+733,3962,51,Male,Summer,Rainy,Hiking,Thunder Run,Advanced,Advanced,Helmet,Sprain,2,10,No,0
+734,7277,17,Male,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Beginner,Pads,Sprain,2,16,No,0
+735,1890,19,Female,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Beginner,None,Fracture,6,16,No,0
+736,8803,51,Male,Winter,Snowy,Skiing,Summit Peak,Advanced,Intermediate,Pads,Concussion,7,19,No,0
+737,9690,50,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,Pads,Sprain,3,15,No,0
+738,1672,45,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,8,15,Yes,4
+739,5375,23,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Intermediate,Pads,Head Injury,6,13,No,0
+740,4193,39,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,None,Sprain,3,11,No,0
+741,7737,15,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Fracture,6,11,No,0
+742,4163,29,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Advanced,Pads,Concussion,4,16,No,0
+743,2995,53,Male,Winter,Sunny,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,5,11,No,0
+744,2816,55,Male,Winter,Windy,Skiing,Shadow Valley,Expert,Advanced,None,Fracture,7,11,No,0
+745,5528,17,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,None,Head Injury,9,12,Yes,4
+746,7271,59,Female,Summer,Sunny,Climbing,Thunder Run,Advanced,Beginner,Pads,Fracture,5,16,No,0
+747,2137,40,Female,Summer,Rainy,Hiking,Thunder Run,Advanced,Intermediate,Helmet,Sprain,4,18,No,0
+748,9857,32,Female,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Intermediate,Helmet,Fracture,7,14,No,0
+749,2194,18,Male,Winter,Windy,Skiing,Shadow Valley,Expert,Intermediate,Helmet,Fracture,3,9,No,0
+750,1619,47,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Beginner,None,Fracture,7,19,No,0
+751,9444,19,Female,Summer,Windy,Hiking,Blue Ridge,Intermediate,Intermediate,None,Fracture,2,19,No,0
+752,1054,49,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Advanced,Helmet,Fracture,7,15,No,0
+753,7563,24,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Intermediate,Pads,Sprain,4,15,No,0
+754,4327,37,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,Pads,Sprain,7,20,No,0
+755,6886,51,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Pads,Fracture,5,12,No,0
+756,4907,22,Female,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Beginner,Helmet,Fracture,6,15,No,0
+757,1268,26,Male,Summer,Windy,Hiking,Shadow Valley,Expert,Intermediate,Pads,Sprain,5,16,No,0
+758,2936,42,Male,Summer,Rainy,Hiking,Thunder Run,Advanced,Advanced,Helmet,Sprain,2,9,No,0
+759,2180,47,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Advanced,None,Sprain,4,16,No,0
+760,3138,19,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Advanced,Helmet,Fracture,5,17,No,0
+761,3796,18,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Beginner,Pads,Sprain,5,11,No,0
+762,4320,29,Female,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,3,18,No,0
+763,6268,43,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,Helmet,Sprain,5,13,No,0
+764,7801,24,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Fracture,9,22,No,0
+765,3185,20,Male,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Beginner,None,Sprain,3,16,No,0
+766,3939,19,Male,Summer,Sunny,Hiking,Summit Peak,Advanced,Beginner,Helmet,Fracture,3,12,No,0
+767,4377,41,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,None,Fracture,6,11,No,0
+768,3949,24,Female,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Beginner,Helmet,Sprain,3,18,No,0
+769,4144,38,Male,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Beginner,None,Fracture,5,18,No,0
+770,5528,53,Male,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Advanced,None,Fracture,5,13,No,0
+771,3617,58,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Pads,Fracture,5,12,No,0
+772,8424,44,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Intermediate,Pads,Concussion,6,18,No,0
+773,2901,47,Male,Winter,Snowy,Skiing,Bunny Hill,Easy,Beginner,Pads,Sprain,7,12,No,0
+774,6336,16,Male,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Beginner,None,Sprain,4,17,No,0
+775,4276,36,Female,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,None,Concussion,10,26,Yes,3
+776,3374,36,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Intermediate,Helmet,Concussion,5,10,No,0
+777,6875,42,Female,Summer,Rainy,Hiking,Blue Ridge,Intermediate,Beginner,Pads,Fracture,5,16,No,0
+778,5597,23,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Advanced,None,Fracture,7,16,No,0
+779,5835,46,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Beginner,Pads,Fracture,7,15,No,0
+780,8757,35,Female,Winter,Sunny,Skiing,Summit Peak,Advanced,Advanced,Pads,Fracture,8,10,Yes,3
+781,6362,18,Female,Summer,Windy,Hiking,Summit Peak,Advanced,Advanced,Helmet,Fracture,4,12,No,0
+782,9261,33,Male,Winter,Sunny,Skiing,Summit Peak,Advanced,Beginner,Helmet,Concussion,7,22,No,0
+783,9114,55,Male,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Advanced,Helmet,Fracture,6,9,No,0
+784,4916,53,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Beginner,Pads,Concussion,4,13,No,0
+785,1399,47,Female,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Advanced,Pads,Sprain,4,16,No,0
+786,1022,24,Male,Summer,Windy,Hiking,Summit Peak,Advanced,Beginner,Pads,Sprain,4,16,No,0
+787,5420,27,Male,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Beginner,Pads,Fracture,4,12,No,0
+788,2818,41,Female,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Advanced,Pads,Fracture,6,17,No,0
+789,2097,20,Male,Summer,Windy,Climbing,Devil’s Drop,Expert,Intermediate,Pads,Fracture,9,15,No,0
+790,4437,42,Male,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Beginner,None,Concussion,6,17,No,0
+791,1892,35,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Head Injury,5,12,No,0
+792,8703,52,Female,Summer,Rainy,Climbing,Summit Peak,Advanced,Advanced,None,Fracture,6,15,No,0
+793,4085,57,Female,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Advanced,None,Sprain,4,25,No,0
+794,3699,36,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Fracture,7,10,No,0
+795,1371,36,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Beginner,None,Sprain,5,15,No,0
+796,8272,38,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Intermediate,Pads,Fracture,6,16,No,0
+797,7745,17,Female,Summer,Sunny,Hiking,Devil’s Drop,Expert,Beginner,None,Sprain,7,19,No,0
+798,8503,35,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,None,Head Injury,6,13,No,0
+799,7093,34,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Concussion,8,14,Yes,1
+800,3634,18,Female,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Intermediate,Helmet,Sprain,5,12,No,0
+801,6187,37,Male,Winter,Snowy,Skiing,Bunny Hill,Easy,Beginner,Helmet,Fracture,6,8,No,0
+802,6192,38,Female,Summer,Rainy,Climbing,Bunny Hill,Easy,Beginner,None,Fracture,5,18,No,0
+803,2990,46,Male,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Beginner,None,Concussion,4,11,No,0
+804,9948,53,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Intermediate,Helmet,Fracture,9,17,Yes,2
+805,8243,20,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Advanced,None,Fracture,5,12,No,0
+806,6047,55,Male,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,None,Fracture,6,11,No,0
+807,1901,26,Male,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Intermediate,Helmet,Fracture,4,11,No,0
+808,2431,23,Female,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,None,Concussion,9,18,No,0
+809,6915,37,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Advanced,None,Fracture,8,22,Yes,4
+810,6651,44,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Concussion,8,15,Yes,2
+811,7809,46,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Beginner,None,Head Injury,7,21,No,0
+812,2410,48,Male,Summer,Windy,Hiking,Summit Peak,Advanced,Advanced,Pads,Fracture,3,17,No,0
+813,7156,53,Male,Winter,Windy,Snowboarding,Thunder Run,Advanced,Advanced,Pads,Fracture,4,14,No,0
+814,3243,38,Male,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Beginner,None,Concussion,6,14,No,0
+815,5979,47,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Intermediate,Helmet,Concussion,6,18,No,0
+816,5917,56,Female,Summer,Sunny,Hiking,Thunder Run,Advanced,Beginner,Helmet,Sprain,4,12,No,0
+817,5009,27,Male,Winter,Windy,Snowboarding,Bunny Hill,Easy,Intermediate,None,Sprain,4,14,No,0
+818,8872,27,Female,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Advanced,None,Concussion,7,22,No,0
+819,9397,43,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Advanced,Helmet,Fracture,6,14,No,0
+820,3219,21,Female,Summer,Windy,Hiking,Devil’s Drop,Expert,Beginner,Pads,Sprain,6,16,No,0
+821,1798,21,Female,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Intermediate,None,Concussion,7,13,No,0
+822,2548,31,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Advanced,Helmet,Sprain,6,27,No,0
+823,2570,29,Female,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,Pads,Head Injury,7,11,No,0
+824,7750,30,Female,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Intermediate,Pads,Concussion,7,18,No,0
+825,9612,15,Male,Winter,Snowy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Fracture,3,15,No,0
+826,6705,58,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Helmet,Head Injury,10,17,Yes,3
+827,5991,43,Male,Summer,Rainy,Hiking,Rocky Pass,Intermediate,Advanced,Pads,Fracture,4,9,No,0
+828,4712,29,Female,Winter,Snowy,Skiing,Thunder Run,Advanced,Advanced,Helmet,Sprain,5,10,No,0
+829,2273,54,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,None,Fracture,8,17,No,0
+830,8685,46,Male,Summer,Sunny,Climbing,Bunny Hill,Easy,Beginner,Helmet,Fracture,6,10,No,0
+831,3028,54,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,5,10,No,0
+832,5544,59,Female,Winter,Foggy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Sprain,9,19,No,0
+833,9272,29,Male,Summer,Windy,Hiking,Thunder Run,Advanced,Advanced,None,Fracture,3,15,No,0
+834,9800,28,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Beginner,Pads,Fracture,6,16,No,0
+835,8203,25,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Advanced,None,Fracture,5,12,No,0
+836,7677,44,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Beginner,None,Fracture,5,12,No,0
+837,6918,23,Female,Summer,Rainy,Hiking,Devil’s Drop,Expert,Advanced,Helmet,Sprain,6,16,No,0
+838,8486,29,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,Pads,Concussion,6,13,No,0
+839,2140,59,Female,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,Pads,Fracture,5,17,No,0
+840,7494,31,Female,Summer,Sunny,Hiking,Shadow Valley,Expert,Intermediate,None,Fracture,3,12,No,0
+841,2666,43,Male,Winter,Snowy,Skiing,Summit Peak,Advanced,Intermediate,None,Sprain,5,17,No,0
+842,3011,42,Male,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Beginner,None,Concussion,6,12,No,0
+843,7557,37,Female,Summer,Rainy,Mountain Biking,Blue Ridge,Intermediate,Advanced,None,Fracture,4,11,No,0
+844,3414,50,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,None,Fracture,5,19,No,0
+845,3205,56,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,Helmet,Sprain,4,20,No,0
+846,7269,30,Female,Winter,Sunny,Skiing,Summit Peak,Advanced,Advanced,Helmet,Fracture,6,18,No,0
+847,9064,16,Female,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Beginner,None,Sprain,6,10,No,0
+848,6629,30,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,7,15,No,0
+849,8250,40,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Concussion,4,14,No,0
+850,3689,52,Female,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Advanced,Pads,Sprain,4,9,No,0
+851,9037,44,Female,Summer,Rainy,Hiking,Shadow Valley,Expert,Intermediate,Pads,Fracture,2,10,No,0
+852,9105,42,Female,Summer,Sunny,Mountain Biking,Rocky Pass,Intermediate,Beginner,Pads,Fracture,3,16,No,0
+853,3100,21,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Beginner,None,Fracture,10,19,Yes,4
+854,2594,20,Female,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Advanced,Pads,Fracture,6,14,No,0
+855,5056,42,Male,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,None,Fracture,8,14,Yes,1
+856,6531,20,Male,Summer,Sunny,Mountain Biking,Shadow Valley,Expert,Beginner,Pads,Sprain,6,9,No,0
+857,9433,54,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,4,12,No,0
+858,7188,25,Female,Summer,Windy,Hiking,Summit Peak,Advanced,Advanced,Helmet,Sprain,2,12,No,0
+859,6504,41,Female,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Intermediate,Helmet,Sprain,3,13,No,0
+860,9142,17,Male,Summer,Windy,Hiking,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,5,14,No,0
+861,4700,27,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,None,Concussion,10,27,Yes,4
+862,7997,44,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,None,Concussion,7,17,No,0
+863,8092,36,Female,Summer,Windy,Hiking,Thunder Run,Advanced,Intermediate,None,Sprain,4,11,No,0
+864,9971,29,Male,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Advanced,None,Concussion,5,13,No,0
+865,5389,33,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Advanced,None,Concussion,5,20,No,0
+866,5919,33,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,Helmet,Fracture,3,10,No,0
+867,5702,39,Male,Summer,Sunny,Climbing,Shadow Valley,Expert,Beginner,Pads,Head Injury,7,13,No,0
+868,3456,25,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Intermediate,Helmet,Sprain,6,15,No,0
+869,7914,19,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,None,Concussion,8,14,Yes,3
+870,3883,56,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Beginner,Pads,Concussion,5,15,No,0
+871,2041,46,Female,Summer,Sunny,Hiking,Thunder Run,Advanced,Beginner,Pads,Sprain,5,10,No,0
+872,4867,32,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Intermediate,None,Sprain,7,15,No,0
+873,6134,55,Female,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Beginner,None,Fracture,9,15,No,0
+874,2750,24,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Intermediate,Helmet,Sprain,5,16,No,0
+875,9034,15,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,None,Fracture,6,14,No,0
+876,3374,31,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Helmet,Concussion,7,9,No,0
+877,1895,54,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Intermediate,Helmet,Sprain,3,12,No,0
+878,2999,42,Male,Summer,Rainy,Mountain Biking,Blue Ridge,Intermediate,Advanced,None,Fracture,4,13,No,0
+879,4857,51,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Intermediate,Pads,Fracture,6,15,No,0
+880,1555,40,Female,Winter,Windy,Skiing,Shadow Valley,Expert,Intermediate,None,Concussion,3,11,No,0
+881,7920,36,Male,Winter,Windy,Snowboarding,Shadow Valley,Expert,Intermediate,Pads,Sprain,6,17,No,0
+882,9973,44,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Intermediate,None,Sprain,7,10,No,0
+883,8264,30,Male,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Beginner,None,Sprain,3,14,No,0
+884,2347,41,Male,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Intermediate,Pads,Sprain,6,11,No,0
+885,6233,23,Female,Winter,Snowy,Skiing,Thunder Run,Advanced,Advanced,None,Concussion,7,11,No,0
+886,5616,31,Male,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Beginner,None,Fracture,5,13,No,0
+887,4677,44,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Intermediate,Pads,Sprain,4,15,No,0
+888,3764,26,Male,Winter,Sunny,Skiing,Summit Peak,Advanced,Beginner,Pads,Sprain,8,12,Yes,3
+889,7028,43,Male,Summer,Rainy,Mountain Biking,Rocky Pass,Intermediate,Intermediate,Helmet,Sprain,3,13,No,0
+890,2941,21,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,None,Concussion,5,17,No,0
+891,3133,52,Female,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Concussion,6,12,No,0
+892,3955,34,Female,Winter,Foggy,Skiing,Shadow Valley,Expert,Advanced,Helmet,Concussion,4,11,No,0
+893,5068,22,Female,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Beginner,None,Concussion,5,12,No,0
+894,4476,53,Female,Summer,Sunny,Hiking,Summit Peak,Advanced,Beginner,Pads,Sprain,2,12,No,0
+895,1853,46,Female,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,6,15,No,0
+896,1745,45,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Advanced,None,Sprain,7,12,No,0
+897,3166,37,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,Pads,Fracture,4,13,No,0
+898,3161,46,Male,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Intermediate,Pads,Concussion,5,13,No,0
+899,6132,54,Male,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Beginner,Pads,Sprain,4,9,No,0
+900,5312,45,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Intermediate,Pads,Concussion,6,9,No,0
+901,8208,27,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,6,18,No,0
+902,5263,54,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Beginner,Helmet,Concussion,3,19,No,0
+903,8949,53,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Beginner,Pads,Head Injury,5,11,No,0
+904,2533,32,Male,Summer,Windy,Hiking,Thunder Run,Advanced,Beginner,Helmet,Sprain,2,16,No,0
+905,1067,58,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Advanced,Pads,Fracture,2,8,No,0
+906,6384,49,Male,Summer,Sunny,Hiking,Thunder Run,Advanced,Intermediate,None,Fracture,3,10,No,0
+907,6300,18,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Intermediate,Pads,Sprain,8,24,No,0
+908,8439,27,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Advanced,None,Concussion,5,11,No,0
+909,3118,28,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Advanced,Pads,Concussion,8,21,Yes,2
+910,9964,52,Female,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Beginner,None,Fracture,7,13,No,0
+911,1336,17,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Beginner,Pads,Fracture,7,10,No,0
+912,2975,52,Female,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Advanced,None,Fracture,8,13,Yes,4
+913,6882,24,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,None,Fracture,5,12,No,0
+914,5398,45,Female,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Intermediate,Pads,Fracture,5,10,No,0
+915,7979,55,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,Pads,Sprain,8,11,Yes,1
+916,3540,18,Female,Winter,Windy,Snowboarding,Shadow Valley,Expert,Beginner,None,Sprain,8,11,Yes,2
+917,3434,34,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Beginner,Pads,Concussion,8,18,Yes,1
+918,2253,47,Male,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,None,Fracture,5,12,No,0
+919,5151,22,Female,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Intermediate,None,Sprain,7,20,No,0
+920,8583,27,Male,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Advanced,Helmet,Sprain,4,13,No,0
+921,6143,16,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,None,Concussion,10,24,Yes,4
+922,2281,53,Female,Summer,Rainy,Mountain Biking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,4,17,No,0
+923,3813,32,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,10,17,Yes,2
+924,5961,31,Female,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Advanced,None,Fracture,3,16,No,0
+925,2833,24,Male,Summer,Sunny,Climbing,Bunny Hill,Easy,Beginner,Helmet,Fracture,7,13,No,0
+926,4961,44,Female,Winter,Snowy,Skiing,Summit Peak,Advanced,Advanced,Helmet,Sprain,6,13,No,0
+927,7912,46,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Concussion,3,12,No,0
+928,8724,22,Male,Winter,Snowy,Skiing,Shadow Valley,Expert,Advanced,Pads,Concussion,6,12,No,0
+929,1834,57,Female,Summer,Sunny,Mountain Biking,Bunny Hill,Easy,Intermediate,None,Fracture,6,11,No,0
+930,5764,57,Male,Winter,Windy,Skiing,Summit Peak,Advanced,Intermediate,None,Sprain,4,16,No,0
+931,4799,35,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,None,Head Injury,5,9,No,0
+932,7834,22,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,Pads,Sprain,8,18,Yes,1
+933,3643,38,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Fracture,4,14,No,0
+934,6556,54,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Beginner,None,Fracture,4,17,No,0
+935,6902,20,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,None,Sprain,6,17,No,0
+936,8911,52,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Advanced,Helmet,Sprain,5,14,No,0
+937,9089,40,Female,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Intermediate,Helmet,Concussion,7,12,No,0
+938,3598,33,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Intermediate,Pads,Concussion,6,23,No,0
+939,2977,42,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Beginner,None,Fracture,4,13,No,0
+940,3476,38,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,Helmet,Head Injury,5,11,No,0
+941,2669,28,Male,Winter,Windy,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Sprain,5,14,No,0
+942,5786,38,Female,Winter,Sunny,Skiing,Thunder Run,Advanced,Beginner,Pads,Fracture,7,6,No,0
+943,3257,33,Male,Summer,Sunny,Mountain Biking,Bunny Hill,Easy,Advanced,Pads,Fracture,4,15,No,0
+944,6592,41,Female,Winter,Windy,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Concussion,6,13,No,0
+945,5021,48,Male,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Concussion,3,12,No,0
+946,8516,15,Female,Summer,Sunny,Hiking,Thunder Run,Advanced,Intermediate,Pads,Sprain,4,10,No,0
+947,2140,35,Male,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Beginner,None,Sprain,4,10,No,0
+948,7443,35,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,Pads,Fracture,5,11,No,0
+949,5986,29,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,None,Sprain,8,15,Yes,1
+950,8310,39,Male,Summer,Rainy,Hiking,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,3,11,No,0
+951,5940,20,Male,Summer,Rainy,Mountain Biking,Thunder Run,Advanced,Advanced,Pads,Sprain,3,17,No,0
+952,9527,35,Female,Winter,Windy,Snowboarding,Shadow Valley,Expert,Advanced,None,Fracture,4,9,No,0
+953,1383,17,Male,Winter,Foggy,Skiing,Rocky Pass,Intermediate,Intermediate,None,Fracture,6,11,No,0
+954,1982,22,Female,Summer,Rainy,Hiking,Shadow Valley,Expert,Intermediate,None,Fracture,5,19,No,0
+955,8352,59,Female,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,5,13,No,0
+956,9737,52,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Advanced,None,Sprain,8,15,Yes,1
+957,7187,15,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Advanced,None,Fracture,9,11,Yes,2
+958,3401,58,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Pads,Fracture,7,15,No,0
+959,4519,22,Female,Summer,Sunny,Hiking,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,7,16,No,0
+960,5320,23,Female,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Advanced,None,Concussion,8,14,Yes,2
+961,3364,45,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Advanced,Pads,Fracture,6,20,No,0
+962,4483,36,Female,Summer,Rainy,Mountain Biking,Bunny Hill,Easy,Advanced,None,Sprain,6,9,No,0
+963,7694,56,Male,Summer,Windy,Hiking,Bunny Hill,Easy,Advanced,Pads,Fracture,5,10,No,0
+964,7086,52,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Fracture,8,19,No,0
+965,7910,31,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,7,17,No,0
+966,3004,52,Female,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,Pads,Fracture,5,15,No,0
+967,8411,49,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Advanced,Pads,Sprain,3,13,No,0
+968,9270,45,Female,Summer,Windy,Climbing,Thunder Run,Advanced,Advanced,Helmet,Fracture,9,17,Yes,1
+969,7711,37,Female,Summer,Rainy,Mountain Biking,Bunny Hill,Easy,Advanced,Pads,Sprain,3,12,No,0
+970,5544,40,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,None,Concussion,4,13,No,0
+971,2395,32,Male,Winter,Foggy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,6,12,No,0
+972,9713,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Beginner,Helmet,Sprain,6,18,No,0
+973,2386,57,Female,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Advanced,None,Concussion,7,10,No,0
+974,3957,33,Female,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Beginner,Pads,Fracture,5,12,No,0
+975,9876,58,Male,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Beginner,Helmet,Fracture,7,19,No,0
+976,7672,21,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,5,15,No,0
+977,7388,50,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Concussion,9,16,No,0
+978,1849,51,Male,Summer,Rainy,Hiking,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,2,23,No,0
+979,5412,30,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Pads,Fracture,8,12,Yes,4
+980,7676,16,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Pads,Fracture,8,16,Yes,1
+981,5990,57,Female,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,None,Fracture,6,8,No,0
+982,9854,30,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Beginner,Helmet,Sprain,4,11,No,0
+983,5739,19,Male,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Sprain,9,19,No,0
+984,7228,57,Female,Winter,Windy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Sprain,7,17,No,0
+985,2145,46,Female,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,None,Sprain,8,10,Yes,2
+986,5578,46,Female,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Beginner,None,Sprain,5,8,No,0
+987,5473,17,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Intermediate,None,Concussion,4,11,No,0
+988,3190,55,Male,Summer,Sunny,Climbing,Summit Peak,Advanced,Advanced,Pads,Fracture,6,9,No,0
+989,7435,20,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Beginner,Pads,Sprain,4,14,No,0
+990,6864,25,Female,Winter,Windy,Skiing,Shadow Valley,Expert,Beginner,Pads,Concussion,5,9,No,0
+991,1153,47,Male,Winter,Sunny,Skiing,Summit Peak,Advanced,Intermediate,Helmet,Concussion,7,19,No,0
+992,5967,19,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Beginner,None,Sprain,5,10,No,0
+993,4425,42,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,Pads,Sprain,10,26,No,0
+994,9093,39,Male,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Intermediate,None,Sprain,5,12,No,0
+995,3087,55,Female,Winter,Sunny,Skiing,Rocky Pass,Intermediate,Beginner,None,Fracture,4,14,No,0
+996,9731,48,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,Helmet,Sprain,4,17,No,0
+997,6292,16,Female,Summer,Rainy,Hiking,Shadow Valley,Expert,Advanced,None,Fracture,3,12,No,0
+998,6922,32,Male,Summer,Sunny,Climbing,Shadow Valley,Expert,Advanced,Pads,Head Injury,8,13,Yes,3
+999,1084,20,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Advanced,Pads,Concussion,5,9,No,0
