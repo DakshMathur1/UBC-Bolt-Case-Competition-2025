@@ -105,7 +105,9 @@ plt.ylabel("Number of Reviews")
 plt.title("Sentiment Distribution in Guest Reviews")
 plt.show()
 
-### 2️⃣ **Aspect-Based Sentiment Analysis (ABSA)**
+# Part 2
+ 
+# **Aspect-Based Sentiment Analysis (ABSA)**
 # Define categories for safety, pricing, and service
 safety_keywords = ["safe", "danger", "accident", "injury", "medical", "rescue", "help", "hospital"]
 pricing_keywords = ["expensive", "cheap", "overpriced", "value", "cost", "money", "budget", "price"]
