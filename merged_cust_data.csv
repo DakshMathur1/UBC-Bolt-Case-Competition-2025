@@ -1,0 +1,103 @@
+Transaction_ID,Transaction_Type,Category,Amount,Date,Season_x,Weather_x,Customer_ID,Incident_ID_x,Incident_ID_y,Age,Gender,Season_y,Weather_y,Activity,Slope_Name,Slope_Difficulty,Skill_Level,Protective_Gear,Injuries,Injury_Severity,Response_Time,Hospital_Transport,Hospital_Stay_Length
+16,Revenue,Ticket Sale,7700,2025-02-25,Winter,Foggy,8439.0,,614,23,Male,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Intermediate,,Concussion,6,12,No,0
+16,Revenue,Ticket Sale,7700,2025-02-25,Winter,Foggy,8439.0,,908,27,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Advanced,,Concussion,5,11,No,0
+28,Revenue,Rental,70,2025-02-25,Winter,Sunny,9308.0,,51,49,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,,Concussion,7,12,No,0
+39,Revenue,Rental,315,2025-02-25,Winter,Windy,1110.0,,309,19,Female,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Concussion,8,13,Yes,1
+45,Revenue,Rental,240,2025-02-25,Winter,Snowy,1352.0,,648,41,Male,Summer,Windy,Mountain Biking,Devil’s Drop,Expert,Beginner,Helmet,Fracture,7,23,No,0
+46,Revenue,Ticket Sale,200,2025-02-25,Summer,Sunny,3248.0,,393,38,Female,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Beginner,Pads,Fracture,5,19,No,0
+49,Revenue,Ticket Sale,240,2025-02-25,Summer,Windy,2941.0,,890,21,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,,Concussion,5,17,No,0
+75,Revenue,Rental,120,2025-02-25,Winter,Foggy,2612.0,,24,18,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Intermediate,,Fracture,8,15,Yes,4
+75,Revenue,Rental,120,2025-02-25,Winter,Foggy,2612.0,,118,15,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Concussion,3,14,No,0
+119,Revenue,Ticket Sale,200,2025-02-25,Summer,Windy,4559.0,,136,26,Female,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,5,17,No,0
+137,Revenue,Rental,160,2025-02-25,Winter,Foggy,4276.0,,775,36,Female,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,,Concussion,10,26,Yes,3
+158,Revenue,Rental,50,2025-02-25,Summer,Sunny,7156.0,,813,53,Male,Winter,Windy,Snowboarding,Thunder Run,Advanced,Advanced,Pads,Fracture,4,14,No,0
+162,Revenue,Rental,30,2025-02-25,Summer,Sunny,6427.0,,236,55,Male,Summer,Windy,Mountain Biking,Blue Ridge,Intermediate,Intermediate,Helmet,Fracture,4,16,No,0
+189,Revenue,Ticket Sale,250,2025-02-25,Winter,Windy,3039.0,,200,39,Female,Summer,Sunny,Climbing,Thunder Run,Advanced,Advanced,Pads,Head Injury,6,14,No,0
+195,Revenue,Rental,50,2025-02-25,Summer,Windy,5166.0,,484,38,Male,Summer,Windy,Hiking,Shadow Valley,Expert,Advanced,Pads,Fracture,4,17,No,0
+224,Revenue,Ticket Sale,200,2025-02-25,Summer,Windy,6833.0,,566,44,Male,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Beginner,Helmet,Sprain,4,16,No,0
+272,Revenue,Ticket Sale,3500,2025-02-25,Winter,Sunny,9444.0,,751,19,Female,Summer,Windy,Hiking,Blue Ridge,Intermediate,Intermediate,,Fracture,2,19,No,0
+294,Revenue,Ticket Sale,350,2025-02-25,Winter,Windy,5068.0,,893,22,Female,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Beginner,,Concussion,5,12,No,0
+302,Revenue,Rental,150,2025-02-25,Summer,Rainy,7914.0,,869,19,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,,Concussion,8,14,Yes,3
+314,Revenue,Rental,240,2025-02-25,Winter,Windy,7203.0,,477,56,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Sprain,7,19,No,0
+370,Revenue,Ticket Sale,2100,2025-02-25,Summer,Windy,9230.0,,658,37,Female,Winter,Foggy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,7,20,No,0
+374,Revenue,Ticket Sale,550,2025-02-25,Winter,Snowy,1834.0,,929,57,Female,Summer,Sunny,Mountain Biking,Bunny Hill,Easy,Intermediate,,Fracture,6,11,No,0
+421,Revenue,Ticket Sale,720,2025-02-25,Winter,Foggy,6081.0,,364,32,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,,Fracture,6,10,No,0
+423,Revenue,Rental,180,2025-02-25,Winter,Sunny,2180.0,,162,18,Female,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,,Concussion,4,12,No,0
+423,Revenue,Rental,180,2025-02-25,Winter,Sunny,2180.0,,759,47,Male,Summer,Windy,Mountain Biking,Bunny Hill,Easy,Advanced,,Sprain,4,16,No,0
+434,Revenue,Ticket Sale,6300,2025-02-25,Winter,Sunny,2684.0,,167,18,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,14,Yes,4
+436,Revenue,Ticket Sale,160,2025-02-25,Summer,Sunny,4675.0,,495,59,Female,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Sprain,5,14,No,0
+446,Revenue,Ticket Sale,160,2025-02-25,Summer,Rainy,1035.0,,482,45,Female,Summer,Rainy,Mountain Biking,Devil’s Drop,Expert,Beginner,,Sprain,6,23,No,0
+449,Revenue,Ticket Sale,320,2025-02-25,Summer,Sunny,6292.0,,997,16,Female,Summer,Rainy,Hiking,Shadow Valley,Expert,Advanced,,Fracture,3,12,No,0
+456,Revenue,Ticket Sale,7000,2025-02-25,Winter,Windy,7911.0,,582,33,Female,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Beginner,,Fracture,5,19,No,0
+461,Revenue,Rental,200,2025-02-25,Winter,Windy,4452.0,,536,44,Male,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Advanced,Pads,Fracture,5,15,No,0
+462,Revenue,Ticket Sale,300,2025-02-25,Winter,Snowy,3344.0,,121,50,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Concussion,6,15,No,0
+479,Revenue,Ticket Sale,2100,2025-02-25,Summer,Sunny,7086.0,,964,52,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Fracture,8,19,No,0
+499,Revenue,Ticket Sale,400,2025-02-25,Winter,Windy,8451.0,,103,28,Male,Summer,Rainy,Mountain Biking,Blue Ridge,Intermediate,Advanced,Pads,Sprain,5,12,No,0
+522,Revenue,Ticket Sale,320,2025-02-25,Summer,Sunny,4465.0,,534,51,Male,Summer,Sunny,Hiking,Devil’s Drop,Expert,Advanced,,Sprain,4,19,No,0
+532,Revenue,Rental,100,2025-02-25,Summer,Sunny,8514.0,,673,37,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,17,Yes,1
+533,Revenue,Ticket Sale,200,2025-02-25,Summer,Rainy,7658.0,,43,46,Male,Summer,Windy,Hiking,Bunny Hill,Easy,Advanced,Helmet,Sprain,3,17,No,0
+563,Revenue,Rental,50,2025-02-25,Winter,Windy,2631.0,,647,48,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Intermediate,,Sprain,5,18,No,0
+569,Revenue,Ticket Sale,550,2025-02-25,Winter,Windy,3138.0,,760,19,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Advanced,Helmet,Fracture,5,17,No,0
+572,Revenue,Ticket Sale,320,2025-02-25,Summer,Windy,5505.0,,391,27,Female,Winter,Windy,Snowboarding,Bunny Hill,Easy,Intermediate,Helmet,Fracture,7,10,No,0
+593,Revenue,Ticket Sale,160,2025-02-25,Summer,Rainy,6105.0,,156,29,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Concussion,7,13,No,0
+631,Revenue,Rental,90,2025-02-25,Summer,Rainy,3257.0,,943,33,Male,Summer,Sunny,Mountain Biking,Bunny Hill,Easy,Advanced,Pads,Fracture,4,15,No,0
+646,Revenue,Rental,315,2025-02-25,Winter,Windy,2124.0,,71,36,Male,Summer,Windy,Hiking,Rocky Pass,Intermediate,Beginner,Pads,Fracture,4,18,No,0
+646,Revenue,Rental,315,2025-02-25,Winter,Windy,2124.0,,557,38,Male,Summer,Rainy,Mountain Biking,Summit Peak,Advanced,Advanced,Helmet,Sprain,5,12,No,0
+693,Revenue,Rental,135,2025-02-25,Winter,Windy,9571.0,,463,16,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Concussion,7,11,No,0
+731,Revenue,Ticket Sale,100,2025-02-25,Summer,Rainy,2995.0,,743,53,Male,Winter,Sunny,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,5,11,No,0
+751,Revenue,Rental,30,2025-02-25,Winter,Foggy,6309.0,,530,54,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Fracture,4,13,No,0
+758,Revenue,Ticket Sale,150,2025-02-25,Summer,Sunny,2194.0,,749,18,Male,Winter,Windy,Skiing,Shadow Valley,Expert,Intermediate,Helmet,Fracture,3,9,No,0
+767,Revenue,Rental,180,2025-02-25,Winter,Foggy,9653.0,,295,27,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,,Fracture,9,11,Yes,4
+796,Revenue,Rental,30,2025-02-25,Winter,Sunny,7767.0,,379,40,Female,Winter,Foggy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Sprain,7,19,No,0
+887,Revenue,Rental,90,2025-02-25,Summer,Sunny,5726.0,,720,15,Male,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Pads,Fracture,4,12,No,0
+910,Revenue,Rental,50,2025-02-25,Winter,Foggy,5786.0,,942,38,Female,Winter,Sunny,Skiing,Thunder Run,Advanced,Beginner,Pads,Fracture,7,6,No,0
+937,Revenue,Ticket Sale,880,2025-02-25,Winter,Foggy,2253.0,,918,47,Male,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,,Fracture,5,12,No,0
+960,Revenue,Rental,60,2025-02-25,Summer,Rainy,6272.0,,112,41,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Head Injury,7,13,No,0
+1019,Revenue,Rental,150,2025-02-25,Summer,Sunny,8264.0,,883,30,Male,Summer,Sunny,Mountain Biking,Thunder Run,Advanced,Beginner,,Sprain,3,14,No,0
+1034,Revenue,Rental,90,2025-02-25,Summer,Windy,1601.0,,676,15,Male,Winter,Snowy,Skiing,Bunny Hill,Easy,Beginner,,Concussion,7,9,No,0
+1076,Revenue,Rental,315,2025-02-25,Winter,Windy,5668.0,,357,34,Male,Summer,Sunny,Hiking,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,2,19,No,0
+1100,Revenue,Ticket Sale,350,2025-02-25,Winter,Windy,2253.0,,918,47,Male,Summer,Windy,Hiking,Summit Peak,Advanced,Intermediate,,Fracture,5,12,No,0
+1109,Revenue,Rental,135,2025-02-25,Winter,Windy,5501.0,,290,55,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,,Sprain,8,18,No,0
+1151,Revenue,Rental,315,2025-02-25,Winter,Foggy,5011.0,,701,32,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+1157,Revenue,Ticket Sale,320,2025-02-25,Summer,Rainy,2697.0,,37,16,Male,Summer,Windy,Mountain Biking,Rocky Pass,Intermediate,Beginner,,Fracture,3,14,No,0
+1181,Revenue,Ticket Sale,160,2025-02-25,Summer,Windy,9587.0,,456,38,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Advanced,,Sprain,8,15,Yes,3
+1190,Revenue,Rental,180,2025-02-25,Winter,Sunny,9561.0,,91,54,Female,Summer,Sunny,Hiking,Devil’s Drop,Expert,Advanced,Pads,Fracture,4,21,No,0
+1199,Revenue,Rental,90,2025-02-25,Summer,Rainy,6384.0,,906,49,Male,Summer,Sunny,Hiking,Thunder Run,Advanced,Intermediate,,Fracture,3,10,No,0
+1211,Revenue,Rental,315,2025-02-25,Winter,Foggy,4144.0,,769,38,Male,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Beginner,,Fracture,5,18,No,0
+1260,Revenue,Rental,135,2025-02-25,Winter,Snowy,4377.0,,767,41,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,,Fracture,6,11,No,0
+1265,Revenue,Rental,90,2025-02-25,Summer,Rainy,4559.0,,136,26,Female,Winter,Windy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,5,17,No,0
+1300,Revenue,Rental,240,2025-02-25,Winter,Snowy,9433.0,,857,54,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,4,12,No,0
+1303,Revenue,Rental,200,2025-02-25,Winter,Snowy,5106.0,,126,39,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,9,Yes,1
+1344,Revenue,Rental,70,2025-02-25,Winter,Windy,2153.0,,621,31,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,16,Yes,4
+1353,Revenue,Ticket Sale,800,2025-02-25,Winter,Sunny,8955.0,,426,16,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Sprain,7,13,No,0
+1382,Revenue,Ticket Sale,7700,2025-02-25,Winter,Snowy,2483.0,,714,43,Male,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Advanced,,Fracture,6,15,No,0
+1386,Revenue,Rental,200,2025-02-25,Winter,Foggy,8250.0,,849,40,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Concussion,4,14,No,0
+1410,Revenue,Rental,90,2025-02-25,Summer,Rainy,9322.0,,708,44,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,12,Yes,4
+1412,Revenue,Ticket Sale,2100,2025-02-25,Summer,Windy,2163.0,,359,45,Male,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Sprain,7,21,No,0
+1414,Revenue,Ticket Sale,4900,2025-02-25,Winter,Snowy,9109.0,,333,55,Female,Winter,Snowy,Snowboarding,Bunny Hill,Easy,Intermediate,,Sprain,6,14,No,0
+1457,Revenue,Rental,280,2025-02-25,Winter,Foggy,7388.0,,977,50,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Concussion,9,16,No,0
+1473,Revenue,Rental,50,2025-02-25,Summer,Rainy,8242.0,,105,35,Male,Summer,Sunny,Hiking,Rocky Pass,Intermediate,Intermediate,,Sprain,4,18,No,0
+1491,Revenue,Rental,90,2025-02-25,Summer,Rainy,9037.0,,851,44,Female,Summer,Rainy,Hiking,Shadow Valley,Expert,Intermediate,Pads,Fracture,2,10,No,0
+1518,Revenue,Ticket Sale,400,2025-02-25,Winter,Sunny,2404.0,,419,55,Female,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,,Fracture,4,14,No,0
+1535,Revenue,Rental,135,2025-02-25,Winter,Sunny,6254.0,,615,31,Male,Summer,Sunny,Mountain Biking,Devil’s Drop,Expert,Advanced,Pads,Sprain,5,15,No,0
+1556,Revenue,Ticket Sale,640,2025-02-25,Winter,Snowy,2235.0,,524,40,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Advanced,Helmet,Sprain,7,11,No,0
+1560,Revenue,Rental,50,2025-02-25,Winter,Sunny,4268.0,,198,34,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,9,22,No,0
+1596,Revenue,Rental,315,2025-02-25,Winter,Windy,7821.0,,275,53,Female,Winter,Windy,Snowboarding,Thunder Run,Advanced,Advanced,Pads,Sprain,7,10,No,0
+1618,Revenue,Ticket Sale,5600,2025-02-25,Winter,Foggy,4193.0,,740,39,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,,Sprain,3,11,No,0
+1640,Revenue,Ticket Sale,480,2025-02-25,Winter,Snowy,1396.0,,639,44,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Head Injury,8,11,Yes,4
+1663,Revenue,Rental,60,2025-02-25,Summer,Windy,9055.0,,476,58,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Fracture,8,19,Yes,3
+1706,Revenue,Ticket Sale,100,2025-02-25,Summer,Rainy,7912.0,,927,46,Male,Winter,Foggy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Concussion,3,12,No,0
+1745,Revenue,Rental,315,2025-02-25,Winter,Snowy,3414.0,,56,22,Male,Summer,Sunny,Hiking,Shadow Valley,Expert,Intermediate,Helmet,Fracture,3,9,No,0
+1745,Revenue,Rental,315,2025-02-25,Winter,Snowy,3414.0,,844,50,Female,Summer,Windy,Mountain Biking,Summit Peak,Advanced,Intermediate,,Fracture,5,19,No,0
+1746,Revenue,Ticket Sale,880,2025-02-25,Winter,Windy,7092.0,,367,19,Male,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Advanced,Pads,Sprain,3,11,No,0
+1779,Revenue,Rental,270,2025-02-25,Winter,Foggy,9142.0,,860,17,Male,Summer,Windy,Hiking,Blue Ridge,Intermediate,Intermediate,Pads,Fracture,5,14,No,0
+1791,Revenue,Ticket Sale,720,2025-02-25,Winter,Foggy,1672.0,,738,45,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,8,15,Yes,4
+1838,Revenue,Rental,240,2025-02-25,Winter,Windy,3736.0,,455,22,Male,Summer,Sunny,Hiking,Summit Peak,Advanced,Advanced,,Sprain,5,9,No,0
+1865,Revenue,Ticket Sale,7000,2025-02-25,Winter,Foggy,1404.0,,505,24,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Intermediate,,Head Injury,7,13,No,0
+1900,Revenue,Rental,270,2025-02-25,Winter,Foggy,3701.0,,457,25,Female,Summer,Sunny,Mountain Biking,Blue Ridge,Intermediate,Intermediate,Pads,Sprain,3,17,No,0
+1935,Revenue,Rental,60,2025-02-25,Summer,Rainy,3957.0,,974,33,Female,Summer,Sunny,Mountain Biking,Summit Peak,Advanced,Beginner,Pads,Fracture,5,12,No,0
+1962,Revenue,Rental,240,2025-02-25,Winter,Sunny,2989.0,,106,26,Male,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Intermediate,,Concussion,7,19,No,0
+1968,Revenue,Ticket Sale,480,2025-02-25,Winter,Foggy,2415.0,,374,21,Female,Summer,Rainy,Hiking,Thunder Run,Advanced,Intermediate,Pads,Sprain,2,13,No,0
+1985,Revenue,Ticket Sale,320,2025-02-25,Summer,Rainy,2746.0,,58,33,Female,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,,Fracture,8,14,Yes,4
+1985,Revenue,Ticket Sale,320,2025-02-25,Summer,Rainy,2746.0,,547,41,Male,Summer,Sunny,Mountain Biking,Shadow Valley,Expert,Intermediate,Pads,Fracture,3,12,No,0
+1991,Revenue,Ticket Sale,400,2025-02-25,Winter,Foggy,2559.0,,350,26,Male,Summer,Windy,Mountain Biking,Thunder Run,Advanced,Beginner,Pads,Sprain,3,19,No,0

@@ -1,0 +1,393 @@
+Transaction_ID,Transaction_Type,Category,Amount,Date,Season_x,Weather_x,Customer_ID_x,Incident_ID,Customer_ID_y,Age,Gender,Season_y,Weather_y,Activity,Slope_Name,Slope_Difficulty,Skill_Level,Protective_Gear,Injuries,Injury_Severity,Response_Time,Hospital_Transport,Hospital_Stay_Length
+2,Expense,Ambulance Call,-1490,2025-02-25,Winter,Foggy,,96.0,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,,Fracture,8,11,Yes,1
+11,Expense,Ambulance Call,-1282,2025-02-25,Summer,Sunny,,775.0,4276,36,Female,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,,Concussion,10,26,Yes,3
+23,Expense,Ambulance Call,-1016,2025-02-25,Winter,Snowy,,780.0,8757,35,Female,Winter,Sunny,Skiing,Summit Peak,Advanced,Advanced,Pads,Fracture,8,10,Yes,3
+26,Expense,Ambulance Call,-1375,2025-02-25,Summer,Windy,,501.0,9608,50,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Head Injury,8,9,Yes,1
+29,Expense,Ambulance Call,-1519,2025-02-25,Winter,Windy,,372.0,6241,55,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Concussion,8,14,Yes,1
+33,Expense,Ambulance Call,-1803,2025-02-25,Summer,Windy,,708.0,9322,44,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,12,Yes,4
+40,Expense,Ambulance Call,-2203,2025-02-25,Winter,Sunny,,40.0,5291,30,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,25,Yes,3
+41,Expense,Ambulance Call,-2147,2025-02-25,Winter,Snowy,,799.0,7093,34,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Concussion,8,14,Yes,1
+48,Expense,Ambulance Call,-1460,2025-02-25,Winter,Foggy,,296.0,5593,45,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,8,10,Yes,4
+53,Expense,Ambulance Call,-1026,2025-02-25,Summer,Sunny,,442.0,3456,52,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,9,15,Yes,2
+59,Expense,Ambulance Call,-1917,2025-02-25,Summer,Sunny,,649.0,1301,55,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,,Fracture,8,15,Yes,1
+71,Expense,Ambulance Call,-1691,2025-02-25,Summer,Rainy,,476.0,9055,58,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Fracture,8,19,Yes,3
+77,Expense,Ambulance Call,-2032,2025-02-25,Summer,Sunny,,443.0,9148,19,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,,Fracture,8,12,Yes,3
+78,Expense,Ambulance Call,-2311,2025-02-25,Summer,Windy,,353.0,7022,42,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Concussion,8,14,Yes,4
+85,Expense,Ambulance Call,-1277,2025-02-25,Summer,Sunny,,353.0,7022,42,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Concussion,8,14,Yes,4
+89,Expense,Ambulance Call,-1648,2025-02-25,Winter,Windy,,584.0,7782,59,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,,Head Injury,8,13,Yes,1
+97,Expense,Ambulance Call,-1162,2025-02-25,Summer,Windy,,152.0,8900,40,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,9,21,Yes,4
+103,Expense,Ambulance Call,-2204,2025-02-25,Winter,Snowy,,703.0,3932,57,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Concussion,10,15,Yes,1
+106,Expense,Ambulance Call,-2161,2025-02-25,Winter,Snowy,,775.0,4276,36,Female,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,,Concussion,10,26,Yes,3
+113,Expense,Ambulance Call,-1422,2025-02-25,Winter,Sunny,,826.0,6705,58,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Helmet,Head Injury,10,17,Yes,3
+114,Expense,Ambulance Call,-1244,2025-02-25,Summer,Windy,,675.0,9967,58,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,12,Yes,4
+122,Expense,Ambulance Call,-2350,2025-02-25,Summer,Sunny,,406.0,6682,53,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+124,Expense,Ambulance Call,-1305,2025-02-25,Summer,Rainy,,685.0,1185,26,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,15,Yes,3
+126,Expense,Ambulance Call,-1606,2025-02-25,Winter,Snowy,,855.0,5056,42,Male,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,,Fracture,8,14,Yes,1
+135,Expense,Ambulance Call,-1710,2025-02-25,Winter,Windy,,804.0,9948,53,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Intermediate,Helmet,Fracture,9,17,Yes,2
+141,Expense,Ambulance Call,-1409,2025-02-25,Winter,Foggy,,353.0,7022,42,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Concussion,8,14,Yes,4
+150,Expense,Ambulance Call,-1794,2025-02-25,Winter,Snowy,,155.0,1502,40,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,,Sprain,10,20,Yes,1
+153,Expense,Ambulance Call,-1655,2025-02-25,Summer,Sunny,,20.0,2049,49,Female,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,9,15,Yes,3
+160,Expense,Ambulance Call,-1443,2025-02-25,Summer,Windy,,244.0,2996,50,Female,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Head Injury,9,18,Yes,4
+172,Expense,Ambulance Call,-1467,2025-02-25,Winter,Foggy,,809.0,6915,37,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Advanced,,Fracture,8,22,Yes,4
+180,Expense,Ambulance Call,-2345,2025-02-25,Winter,Snowy,,666.0,8595,23,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,,Fracture,10,15,Yes,2
+183,Expense,Ambulance Call,-1200,2025-02-25,Summer,Sunny,,244.0,2996,50,Female,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Head Injury,9,18,Yes,4
+191,Expense,Ambulance Call,-2431,2025-02-25,Summer,Windy,,949.0,5986,29,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,,Sprain,8,15,Yes,1
+192,Expense,Ambulance Call,-1922,2025-02-25,Summer,Windy,,86.0,9595,24,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Pads,Sprain,8,11,Yes,3
+199,Expense,Ambulance Call,-1612,2025-02-25,Winter,Windy,,523.0,2343,41,Female,Summer,Rainy,Climbing,Summit Peak,Advanced,Advanced,Helmet,Fracture,9,14,Yes,2
+200,Expense,Ambulance Call,-2179,2025-02-25,Summer,Windy,,703.0,3932,57,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Concussion,10,15,Yes,1
+202,Expense,Ambulance Call,-1870,2025-02-25,Summer,Sunny,,406.0,6682,53,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+203,Expense,Ambulance Call,-1279,2025-02-25,Summer,Windy,,4.0,9785,17,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,,Head Injury,8,10,Yes,4
+207,Expense,Ambulance Call,-1331,2025-02-25,Winter,Snowy,,335.0,3755,35,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+211,Expense,Ambulance Call,-2443,2025-02-25,Winter,Snowy,,701.0,5011,32,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+214,Expense,Ambulance Call,-2379,2025-02-25,Summer,Sunny,,96.0,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,,Fracture,8,11,Yes,1
+222,Expense,Ambulance Call,-1293,2025-02-25,Summer,Rainy,,568.0,9041,23,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Intermediate,,Head Injury,8,12,Yes,1
+229,Expense,Ambulance Call,-1698,2025-02-25,Winter,Sunny,,20.0,2049,49,Female,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,9,15,Yes,3
+230,Expense,Ambulance Call,-1964,2025-02-25,Summer,Sunny,,804.0,9948,53,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Intermediate,Helmet,Fracture,9,17,Yes,2
+241,Expense,Ambulance Call,-2424,2025-02-25,Winter,Snowy,,669.0,2494,32,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,9,Yes,4
+242,Expense,Ambulance Call,-1680,2025-02-25,Summer,Sunny,,888.0,3764,26,Male,Winter,Sunny,Skiing,Summit Peak,Advanced,Beginner,Pads,Sprain,8,12,Yes,3
+244,Expense,Ambulance Call,-1609,2025-02-25,Summer,Sunny,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+250,Expense,Ambulance Call,-1846,2025-02-25,Summer,Sunny,,666.0,8595,23,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,,Fracture,10,15,Yes,2
+252,Expense,Ambulance Call,-1864,2025-02-25,Summer,Rainy,,644.0,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,,Fracture,8,10,Yes,2
+260,Expense,Ambulance Call,-1189,2025-02-25,Summer,Sunny,,285.0,5026,40,Female,Summer,Sunny,Climbing,Bunny Hill,Easy,Intermediate,Helmet,Head Injury,8,17,Yes,1
+265,Expense,Ambulance Call,-2224,2025-02-25,Winter,Foggy,,363.0,4329,15,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,10,17,Yes,2
+269,Expense,Ambulance Call,-2432,2025-02-25,Winter,Sunny,,167.0,2684,18,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,14,Yes,4
+297,Expense,Ambulance Call,-1275,2025-02-25,Summer,Windy,,960.0,5320,23,Female,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Advanced,,Concussion,8,14,Yes,2
+300,Expense,Ambulance Call,-1242,2025-02-25,Winter,Snowy,,410.0,6221,37,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,22,Yes,2
+310,Expense,Ambulance Call,-1876,2025-02-25,Winter,Sunny,,191.0,7878,50,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Beginner,Helmet,Fracture,8,18,Yes,3
+312,Expense,Ambulance Call,-2066,2025-02-25,Winter,Foggy,,476.0,9055,58,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Fracture,8,19,Yes,3
+313,Expense,Ambulance Call,-1210,2025-02-25,Winter,Snowy,,12.0,3621,37,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Fracture,10,19,Yes,2
+318,Expense,Ambulance Call,-1298,2025-02-25,Summer,Windy,,157.0,2336,38,Female,Winter,Snowy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Sprain,8,12,Yes,2
+319,Expense,Ambulance Call,-2100,2025-02-25,Winter,Snowy,,673.0,8514,37,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,17,Yes,1
+324,Expense,Ambulance Call,-1751,2025-02-25,Summer,Sunny,,442.0,3456,52,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,9,15,Yes,2
+326,Expense,Ambulance Call,-1434,2025-02-25,Winter,Windy,,861.0,4700,27,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,,Concussion,10,27,Yes,4
+338,Expense,Ambulance Call,-2471,2025-02-25,Winter,Sunny,,244.0,2996,50,Female,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Head Injury,9,18,Yes,4
+346,Expense,Ambulance Call,-1375,2025-02-25,Summer,Sunny,,4.0,9785,17,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,,Head Injury,8,10,Yes,4
+347,Expense,Ambulance Call,-1262,2025-02-25,Summer,Rainy,,627.0,1267,31,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Head Injury,10,17,Yes,2
+348,Expense,Ambulance Call,-1266,2025-02-25,Winter,Sunny,,335.0,3755,35,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+353,Expense,Ambulance Call,-1651,2025-02-25,Summer,Rainy,,745.0,5528,17,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,,Head Injury,9,12,Yes,4
+363,Expense,Ambulance Call,-1115,2025-02-25,Winter,Snowy,,923.0,3813,32,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,10,17,Yes,2
+368,Expense,Ambulance Call,-1006,2025-02-25,Winter,Snowy,,184.0,4271,33,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Fracture,8,11,Yes,1
+375,Expense,Ambulance Call,-1428,2025-02-25,Summer,Windy,,418.0,8619,50,Female,Summer,Sunny,Climbing,Summit Peak,Advanced,Beginner,Pads,Head Injury,8,14,Yes,2
+379,Expense,Ambulance Call,-1312,2025-02-25,Summer,Rainy,,621.0,2153,31,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,16,Yes,4
+380,Expense,Ambulance Call,-1537,2025-02-25,Summer,Sunny,,82.0,9041,51,Female,Summer,Windy,Climbing,Thunder Run,Advanced,Beginner,,Head Injury,9,17,Yes,4
+382,Expense,Ambulance Call,-2077,2025-02-25,Summer,Sunny,,869.0,7914,19,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,,Concussion,8,14,Yes,3
+384,Expense,Ambulance Call,-2490,2025-02-25,Summer,Rainy,,579.0,7746,55,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,9,15,Yes,3
+386,Expense,Ambulance Call,-2187,2025-02-25,Winter,Foggy,,639.0,1396,44,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Head Injury,8,11,Yes,4
+387,Expense,Ambulance Call,-1781,2025-02-25,Summer,Sunny,,406.0,6682,53,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+394,Expense,Ambulance Call,-2116,2025-02-25,Summer,Windy,,601.0,3393,48,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,Pads,Fracture,9,12,Yes,4
+403,Expense,Ambulance Call,-2343,2025-02-25,Summer,Windy,,400.0,6435,21,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,17,Yes,4
+410,Expense,Ambulance Call,-2192,2025-02-25,Winter,Sunny,,645.0,1869,56,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,,Concussion,8,13,Yes,2
+414,Expense,Ambulance Call,-1390,2025-02-25,Summer,Sunny,,20.0,2049,49,Female,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,9,15,Yes,3
+415,Expense,Ambulance Call,-1380,2025-02-25,Winter,Windy,,400.0,6435,21,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,17,Yes,4
+416,Expense,Ambulance Call,-2329,2025-02-25,Summer,Sunny,,473.0,2037,45,Female,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,2
+431,Expense,Ambulance Call,-1477,2025-02-25,Winter,Foggy,,909.0,3118,28,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Advanced,Pads,Concussion,8,21,Yes,2
+438,Expense,Ambulance Call,-1755,2025-02-25,Winter,Foggy,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+444,Expense,Ambulance Call,-2179,2025-02-25,Summer,Windy,,621.0,2153,31,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,16,Yes,4
+450,Expense,Ambulance Call,-2210,2025-02-25,Winter,Windy,,569.0,9613,40,Female,Summer,Sunny,Climbing,Thunder Run,Advanced,Advanced,Helmet,Fracture,9,15,Yes,3
+452,Expense,Ambulance Call,-1259,2025-02-25,Summer,Windy,,256.0,8319,32,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,1
+458,Expense,Ambulance Call,-2062,2025-02-25,Winter,Sunny,,888.0,3764,26,Male,Winter,Sunny,Skiing,Summit Peak,Advanced,Beginner,Pads,Sprain,8,12,Yes,3
+463,Expense,Ambulance Call,-1107,2025-02-25,Winter,Windy,,83.0,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,,Fracture,8,13,Yes,4
+478,Expense,Ambulance Call,-1389,2025-02-25,Summer,Rainy,,688.0,8888,43,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Intermediate,Helmet,Fracture,9,18,Yes,3
+480,Expense,Ambulance Call,-2067,2025-02-25,Summer,Sunny,,174.0,9586,15,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,8,12,Yes,4
+481,Expense,Ambulance Call,-1597,2025-02-25,Winter,Sunny,,579.0,7746,55,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,9,15,Yes,3
+482,Expense,Ambulance Call,-1018,2025-02-25,Winter,Snowy,,294.0,3807,16,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,12,Yes,4
+487,Expense,Ambulance Call,-2380,2025-02-25,Summer,Sunny,,492.0,7839,59,Female,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Intermediate,,Concussion,8,12,Yes,4
+504,Expense,Ambulance Call,-1769,2025-02-25,Winter,Foggy,,685.0,1185,26,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,15,Yes,3
+515,Expense,Ambulance Call,-1377,2025-02-25,Winter,Windy,,96.0,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,,Fracture,8,11,Yes,1
+520,Expense,Ambulance Call,-2473,2025-02-25,Winter,Snowy,,42.0,6974,33,Male,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Concussion,8,10,Yes,4
+521,Expense,Ambulance Call,-2195,2025-02-25,Summer,Sunny,,775.0,4276,36,Female,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,,Concussion,10,26,Yes,3
+523,Expense,Ambulance Call,-1133,2025-02-25,Summer,Rainy,,312.0,6339,39,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,8,12,Yes,2
+530,Expense,Ambulance Call,-1143,2025-02-25,Winter,Windy,,673.0,8514,37,Female,Winter,Snowy,Skiing,Devil’s Drop,Expert,Advanced,Pads,Fracture,10,17,Yes,1
+537,Expense,Ambulance Call,-1432,2025-02-25,Winter,Sunny,,644.0,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,,Fracture,8,10,Yes,2
+538,Expense,Ambulance Call,-1264,2025-02-25,Winter,Foggy,,923.0,3813,32,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,10,17,Yes,2
+540,Expense,Ambulance Call,-1415,2025-02-25,Summer,Rainy,,627.0,1267,31,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Head Injury,10,17,Yes,2
+541,Expense,Ambulance Call,-2476,2025-02-25,Summer,Windy,,184.0,4271,33,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Fracture,8,11,Yes,1
+554,Expense,Ambulance Call,-1028,2025-02-25,Summer,Sunny,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+555,Expense,Ambulance Call,-1974,2025-02-25,Summer,Rainy,,556.0,5520,28,Female,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Fracture,8,19,Yes,2
+562,Expense,Ambulance Call,-2170,2025-02-25,Winter,Windy,,957.0,7187,15,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Advanced,,Fracture,9,11,Yes,2
+565,Expense,Ambulance Call,-1519,2025-02-25,Summer,Windy,,291.0,4948,50,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,,Fracture,10,20,Yes,2
+581,Expense,Ambulance Call,-1014,2025-02-25,Winter,Snowy,,12.0,3621,37,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Fracture,10,19,Yes,2
+586,Expense,Ambulance Call,-2431,2025-02-25,Winter,Snowy,,184.0,4271,33,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Advanced,Pads,Fracture,8,11,Yes,1
+587,Expense,Ambulance Call,-1112,2025-02-25,Winter,Sunny,,256.0,8319,32,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,1
+598,Expense,Ambulance Call,-2391,2025-02-25,Winter,Foggy,,96.0,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,,Fracture,8,11,Yes,1
+603,Expense,Ambulance Call,-1170,2025-02-25,Winter,Snowy,,649.0,1301,55,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,,Fracture,8,15,Yes,1
+607,Expense,Ambulance Call,-2048,2025-02-25,Winter,Windy,,408.0,8179,22,Female,Summer,Sunny,Climbing,Shadow Valley,Expert,Beginner,Helmet,Head Injury,8,9,Yes,2
+618,Expense,Ambulance Call,-1178,2025-02-25,Winter,Sunny,,20.0,2049,49,Female,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,9,15,Yes,3
+620,Expense,Ambulance Call,-1110,2025-02-25,Summer,Rainy,,601.0,3393,48,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,Pads,Fracture,9,12,Yes,4
+623,Expense,Ambulance Call,-1480,2025-02-25,Winter,Windy,,826.0,6705,58,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Helmet,Head Injury,10,17,Yes,3
+626,Expense,Ambulance Call,-1993,2025-02-25,Winter,Sunny,,780.0,8757,35,Female,Winter,Sunny,Skiing,Summit Peak,Advanced,Advanced,Pads,Fracture,8,10,Yes,3
+632,Expense,Ambulance Call,-1605,2025-02-25,Winter,Snowy,,267.0,6697,58,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,,Fracture,10,19,Yes,2
+637,Expense,Ambulance Call,-2141,2025-02-25,Winter,Sunny,,502.0,2506,49,Female,Winter,Snowy,Skiing,Summit Peak,Advanced,Advanced,,Concussion,8,12,Yes,3
+647,Expense,Ambulance Call,-2137,2025-02-25,Summer,Sunny,,167.0,2684,18,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,14,Yes,4
+651,Expense,Ambulance Call,-2170,2025-02-25,Summer,Rainy,,189.0,8685,21,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Intermediate,,Fracture,8,19,Yes,3
+654,Expense,Ambulance Call,-1537,2025-02-25,Summer,Windy,,83.0,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,,Fracture,8,13,Yes,4
+655,Expense,Ambulance Call,-1749,2025-02-25,Summer,Rainy,,157.0,2336,38,Female,Winter,Snowy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Sprain,8,12,Yes,2
+662,Expense,Ambulance Call,-1938,2025-02-25,Winter,Sunny,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+664,Expense,Ambulance Call,-2298,2025-02-25,Winter,Snowy,,917.0,3434,34,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Beginner,Pads,Concussion,8,18,Yes,1
+668,Expense,Ambulance Call,-2312,2025-02-25,Summer,Windy,,430.0,7828,46,Male,Winter,Windy,Snowboarding,Thunder Run,Advanced,Intermediate,Pads,Sprain,8,10,Yes,4
+678,Expense,Ambulance Call,-2019,2025-02-25,Summer,Windy,,915.0,7979,55,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,Pads,Sprain,8,11,Yes,1
+680,Expense,Ambulance Call,-1661,2025-02-25,Winter,Foggy,,579.0,7746,55,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,9,15,Yes,3
+681,Expense,Ambulance Call,-1527,2025-02-25,Summer,Sunny,,957.0,7187,15,Male,Summer,Rainy,Climbing,Shadow Valley,Expert,Advanced,,Fracture,9,11,Yes,2
+683,Expense,Ambulance Call,-1418,2025-02-25,Winter,Snowy,,921.0,6143,16,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,,Concussion,10,24,Yes,4
+689,Expense,Ambulance Call,-1213,2025-02-25,Summer,Rainy,,353.0,7022,42,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Concussion,8,14,Yes,4
+695,Expense,Ambulance Call,-1662,2025-02-25,Summer,Sunny,,16.0,6310,49,Female,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,8,13,Yes,3
+697,Expense,Ambulance Call,-1063,2025-02-25,Winter,Windy,,4.0,9785,17,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,,Head Injury,8,10,Yes,4
+699,Expense,Ambulance Call,-1938,2025-02-25,Winter,Foggy,,923.0,3813,32,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,10,17,Yes,2
+700,Expense,Ambulance Call,-1918,2025-02-25,Winter,Sunny,,262.0,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+706,Expense,Ambulance Call,-2248,2025-02-25,Summer,Windy,,256.0,8319,32,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,1
+708,Expense,Ambulance Call,-1312,2025-02-25,Winter,Foggy,,126.0,5106,39,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,9,Yes,1
+712,Expense,Ambulance Call,-1434,2025-02-25,Summer,Windy,,923.0,3813,32,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,10,17,Yes,2
+713,Expense,Ambulance Call,-1681,2025-02-25,Summer,Rainy,,745.0,5528,17,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,,Head Injury,9,12,Yes,4
+724,Expense,Ambulance Call,-2113,2025-02-25,Summer,Windy,,93.0,3847,43,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Beginner,Helmet,Fracture,8,12,Yes,4
+742,Expense,Ambulance Call,-1248,2025-02-25,Summer,Sunny,,256.0,8319,32,Female,Summer,Sunny,Climbing,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,1
+762,Expense,Ambulance Call,-1507,2025-02-25,Summer,Windy,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+769,Expense,Ambulance Call,-1722,2025-02-25,Summer,Windy,,638.0,2467,35,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,Pads,Concussion,10,22,Yes,2
+776,Expense,Ambulance Call,-1929,2025-02-25,Summer,Windy,,102.0,3634,55,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,10,Yes,4
+784,Expense,Ambulance Call,-2093,2025-02-25,Winter,Sunny,,104.0,9889,19,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Intermediate,,Fracture,10,25,Yes,1
+794,Expense,Ambulance Call,-1014,2025-02-25,Winter,Foggy,,363.0,4329,15,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,10,17,Yes,2
+802,Expense,Ambulance Call,-1271,2025-02-25,Winter,Windy,,411.0,2228,50,Male,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Sprain,8,12,Yes,2
+803,Expense,Ambulance Call,-1142,2025-02-25,Summer,Windy,,644.0,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,,Fracture,8,10,Yes,2
+806,Expense,Ambulance Call,-1787,2025-02-25,Winter,Sunny,,703.0,3932,57,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Concussion,10,15,Yes,1
+809,Expense,Ambulance Call,-1622,2025-02-25,Winter,Sunny,,262.0,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+818,Expense,Ambulance Call,-1767,2025-02-25,Winter,Foggy,,410.0,6221,37,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,22,Yes,2
+821,Expense,Ambulance Call,-2140,2025-02-25,Summer,Windy,,980.0,7676,16,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Pads,Fracture,8,16,Yes,1
+825,Expense,Ambulance Call,-2321,2025-02-25,Summer,Windy,,126.0,5106,39,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,9,Yes,1
+826,Expense,Ambulance Call,-2187,2025-02-25,Winter,Foggy,,681.0,9666,50,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Advanced,,Sprain,10,20,Yes,1
+827,Expense,Ambulance Call,-1375,2025-02-25,Winter,Foggy,,473.0,2037,45,Female,Winter,Windy,Snowboarding,Devil’s Drop,Expert,Intermediate,Pads,Fracture,10,19,Yes,2
+829,Expense,Ambulance Call,-2291,2025-02-25,Winter,Sunny,,571.0,7216,21,Male,Summer,Windy,Climbing,Devil’s Drop,Expert,Beginner,,Fracture,10,19,Yes,3
+835,Expense,Ambulance Call,-1198,2025-02-25,Winter,Foggy,,460.0,7230,45,Male,Winter,Sunny,Skiing,Shadow Valley,Expert,Beginner,Pads,Concussion,8,9,Yes,1
+838,Expense,Ambulance Call,-1571,2025-02-25,Summer,Windy,,64.0,7812,46,Male,Winter,Windy,Skiing,Summit Peak,Advanced,Intermediate,,Concussion,8,15,Yes,4
+839,Expense,Ambulance Call,-1790,2025-02-25,Winter,Sunny,,456.0,9587,38,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Advanced,,Sprain,8,15,Yes,3
+841,Expense,Ambulance Call,-2174,2025-02-25,Winter,Snowy,,174.0,9586,15,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,8,12,Yes,4
+843,Expense,Ambulance Call,-2229,2025-02-25,Winter,Snowy,,649.0,1301,55,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,,Fracture,8,15,Yes,1
+847,Expense,Ambulance Call,-1798,2025-02-25,Summer,Rainy,,40.0,5291,30,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,25,Yes,3
+856,Expense,Ambulance Call,-1870,2025-02-25,Summer,Rainy,,363.0,4329,15,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,10,17,Yes,2
+857,Expense,Ambulance Call,-1731,2025-02-25,Summer,Sunny,,439.0,4575,51,Female,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,Pads,Head Injury,8,15,Yes,2
+865,Expense,Ambulance Call,-1324,2025-02-25,Winter,Foggy,,595.0,7199,16,Male,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,,Head Injury,9,9,Yes,4
+871,Expense,Ambulance Call,-2390,2025-02-25,Summer,Rainy,,215.0,7708,33,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Intermediate,,Head Injury,9,18,Yes,4
+879,Expense,Ambulance Call,-1182,2025-02-25,Summer,Rainy,,799.0,7093,34,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Concussion,8,14,Yes,1
+882,Expense,Ambulance Call,-2490,2025-02-25,Summer,Rainy,,669.0,2494,32,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,9,Yes,4
+884,Expense,Ambulance Call,-1466,2025-02-25,Summer,Windy,,568.0,9041,23,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Intermediate,,Head Injury,8,12,Yes,1
+885,Expense,Ambulance Call,-1304,2025-02-25,Winter,Foggy,,295.0,9653,27,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,,Fracture,9,11,Yes,4
+886,Expense,Ambulance Call,-2167,2025-02-25,Winter,Foggy,,915.0,7979,55,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,Pads,Sprain,8,11,Yes,1
+888,Expense,Ambulance Call,-2013,2025-02-25,Winter,Snowy,,262.0,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+892,Expense,Ambulance Call,-1594,2025-02-25,Summer,Sunny,,745.0,5528,17,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,,Head Injury,9,12,Yes,4
+895,Expense,Ambulance Call,-1172,2025-02-25,Summer,Rainy,,151.0,1842,36,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,,Concussion,8,13,Yes,1
+897,Expense,Ambulance Call,-2030,2025-02-25,Winter,Sunny,,291.0,4948,50,Male,Winter,Snowy,Snowboarding,Devil’s Drop,Expert,Beginner,,Fracture,10,20,Yes,2
+914,Expense,Ambulance Call,-1893,2025-02-25,Summer,Rainy,,442.0,3456,52,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,9,15,Yes,2
+920,Expense,Ambulance Call,-1077,2025-02-25,Summer,Rainy,,703.0,3932,57,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Concussion,10,15,Yes,1
+927,Expense,Ambulance Call,-2082,2025-02-25,Winter,Foggy,,96.0,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,,Fracture,8,11,Yes,1
+928,Expense,Ambulance Call,-2350,2025-02-25,Winter,Snowy,,985.0,2145,46,Female,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,,Sprain,8,10,Yes,2
+934,Expense,Ambulance Call,-1378,2025-02-25,Winter,Snowy,,523.0,2343,41,Female,Summer,Rainy,Climbing,Summit Peak,Advanced,Advanced,Helmet,Fracture,9,14,Yes,2
+942,Expense,Ambulance Call,-1966,2025-02-25,Winter,Foggy,,853.0,3100,21,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Beginner,,Fracture,10,19,Yes,4
+943,Expense,Ambulance Call,-1171,2025-02-25,Winter,Sunny,,869.0,7914,19,Male,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,,Concussion,8,14,Yes,3
+946,Expense,Ambulance Call,-2146,2025-02-25,Summer,Rainy,,980.0,7676,16,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Pads,Fracture,8,16,Yes,1
+950,Expense,Ambulance Call,-1164,2025-02-25,Winter,Windy,,909.0,3118,28,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Advanced,Pads,Concussion,8,21,Yes,2
+951,Expense,Ambulance Call,-1382,2025-02-25,Winter,Foggy,,262.0,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+957,Expense,Ambulance Call,-1002,2025-02-25,Summer,Rainy,,584.0,7782,59,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,,Head Injury,8,13,Yes,1
+958,Expense,Ambulance Call,-1371,2025-02-25,Winter,Sunny,,701.0,5011,32,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+967,Expense,Ambulance Call,-1891,2025-02-25,Summer,Sunny,,189.0,8685,21,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Intermediate,,Fracture,8,19,Yes,3
+968,Expense,Ambulance Call,-2047,2025-02-25,Summer,Rainy,,960.0,5320,23,Female,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Advanced,,Concussion,8,14,Yes,2
+969,Expense,Ambulance Call,-1662,2025-02-25,Summer,Windy,,295.0,9653,27,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,,Fracture,9,11,Yes,4
+974,Expense,Ambulance Call,-1270,2025-02-25,Summer,Sunny,,704.0,8629,58,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,,Fracture,8,12,Yes,4
+976,Expense,Ambulance Call,-1803,2025-02-25,Winter,Sunny,,353.0,7022,42,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Concussion,8,14,Yes,4
+997,Expense,Ambulance Call,-1764,2025-02-25,Summer,Rainy,,960.0,5320,23,Female,Winter,Windy,Snowboarding,Rocky Pass,Intermediate,Advanced,,Concussion,8,14,Yes,2
+1000,Expense,Ambulance Call,-1013,2025-02-25,Summer,Windy,,189.0,8685,21,Female,Winter,Sunny,Skiing,Blue Ridge,Intermediate,Intermediate,,Fracture,8,19,Yes,3
+1001,Expense,Ambulance Call,-1391,2025-02-25,Summer,Windy,,312.0,6339,39,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,8,12,Yes,2
+1007,Expense,Ambulance Call,-1973,2025-02-25,Summer,Sunny,,443.0,9148,19,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,,Fracture,8,12,Yes,3
+1016,Expense,Ambulance Call,-1305,2025-02-25,Winter,Foggy,,296.0,5593,45,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,8,10,Yes,4
+1021,Expense,Ambulance Call,-1847,2025-02-25,Winter,Sunny,,485.0,6536,54,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Sprain,8,16,Yes,1
+1022,Expense,Ambulance Call,-1441,2025-02-25,Summer,Sunny,,861.0,4700,27,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,,Concussion,10,27,Yes,4
+1027,Expense,Ambulance Call,-1861,2025-02-25,Winter,Snowy,,83.0,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,,Fracture,8,13,Yes,4
+1028,Expense,Ambulance Call,-2413,2025-02-25,Summer,Windy,,312.0,6339,39,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,8,12,Yes,2
+1031,Expense,Ambulance Call,-1324,2025-02-25,Winter,Snowy,,460.0,7230,45,Male,Winter,Sunny,Skiing,Shadow Valley,Expert,Beginner,Pads,Concussion,8,9,Yes,1
+1036,Expense,Ambulance Call,-1708,2025-02-25,Summer,Windy,,406.0,6682,53,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+1051,Expense,Ambulance Call,-1512,2025-02-25,Summer,Sunny,,649.0,1301,55,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,,Fracture,8,15,Yes,1
+1054,Expense,Ambulance Call,-2105,2025-02-25,Summer,Rainy,,685.0,1185,26,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,15,Yes,3
+1071,Expense,Ambulance Call,-1972,2025-02-25,Winter,Snowy,,639.0,1396,44,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Head Injury,8,11,Yes,4
+1084,Expense,Ambulance Call,-1145,2025-02-25,Summer,Sunny,,738.0,1672,45,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,8,15,Yes,4
+1086,Expense,Ambulance Call,-2319,2025-02-25,Summer,Rainy,,980.0,7676,16,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Pads,Fracture,8,16,Yes,1
+1093,Expense,Ambulance Call,-1051,2025-02-25,Summer,Rainy,,35.0,9808,31,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+1094,Expense,Ambulance Call,-1881,2025-02-25,Summer,Sunny,,638.0,2467,35,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,Pads,Concussion,10,22,Yes,2
+1102,Expense,Ambulance Call,-2321,2025-02-25,Winter,Foggy,,738.0,1672,45,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,8,15,Yes,4
+1105,Expense,Ambulance Call,-2221,2025-02-25,Winter,Sunny,,888.0,3764,26,Male,Winter,Sunny,Skiing,Summit Peak,Advanced,Beginner,Pads,Sprain,8,12,Yes,3
+1106,Expense,Ambulance Call,-2151,2025-02-25,Winter,Windy,,335.0,3755,35,Female,Winter,Sunny,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+1110,Expense,Ambulance Call,-1240,2025-02-25,Summer,Windy,,155.0,1502,40,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,,Sprain,10,20,Yes,1
+1120,Expense,Ambulance Call,-1458,2025-02-25,Summer,Windy,,126.0,5106,39,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,9,Yes,1
+1121,Expense,Ambulance Call,-2235,2025-02-25,Winter,Foggy,,501.0,9608,50,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Head Injury,8,9,Yes,1
+1134,Expense,Ambulance Call,-1272,2025-02-25,Summer,Rainy,,810.0,6651,44,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Concussion,8,15,Yes,2
+1159,Expense,Ambulance Call,-2077,2025-02-25,Summer,Windy,,262.0,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+1162,Expense,Ambulance Call,-1585,2025-02-25,Summer,Sunny,,595.0,7199,16,Male,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,,Head Injury,9,9,Yes,4
+1164,Expense,Ambulance Call,-2296,2025-02-25,Summer,Rainy,,485.0,6536,54,Male,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Sprain,8,16,Yes,1
+1166,Expense,Ambulance Call,-1534,2025-02-25,Winter,Snowy,,639.0,1396,44,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Head Injury,8,11,Yes,4
+1168,Expense,Ambulance Call,-1692,2025-02-25,Summer,Windy,,285.0,5026,40,Female,Summer,Sunny,Climbing,Bunny Hill,Easy,Intermediate,Helmet,Head Injury,8,17,Yes,1
+1170,Expense,Ambulance Call,-1107,2025-02-25,Summer,Rainy,,416.0,2892,34,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Helmet,Concussion,8,16,Yes,1
+1173,Expense,Ambulance Call,-2229,2025-02-25,Winter,Foggy,,949.0,5986,29,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,,Sprain,8,15,Yes,1
+1178,Expense,Ambulance Call,-1433,2025-02-25,Winter,Sunny,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+1180,Expense,Ambulance Call,-2104,2025-02-25,Winter,Snowy,,921.0,6143,16,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,,Concussion,10,24,Yes,4
+1186,Expense,Ambulance Call,-1128,2025-02-25,Winter,Snowy,,322.0,2599,47,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Head Injury,8,14,Yes,4
+1189,Expense,Ambulance Call,-1500,2025-02-25,Summer,Windy,,152.0,8900,40,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,9,21,Yes,4
+1200,Expense,Ambulance Call,-1793,2025-02-25,Summer,Windy,,470.0,8835,58,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Sprain,8,13,Yes,3
+1201,Expense,Ambulance Call,-2120,2025-02-25,Winter,Foggy,,923.0,3813,32,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,Helmet,Fracture,10,17,Yes,2
+1206,Expense,Ambulance Call,-1184,2025-02-25,Summer,Windy,,155.0,1502,40,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,,Sprain,10,20,Yes,1
+1209,Expense,Ambulance Call,-2153,2025-02-25,Summer,Windy,,569.0,9613,40,Female,Summer,Sunny,Climbing,Thunder Run,Advanced,Advanced,Helmet,Fracture,9,15,Yes,3
+1210,Expense,Ambulance Call,-1847,2025-02-25,Summer,Sunny,,406.0,6682,53,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+1215,Expense,Ambulance Call,-1578,2025-02-25,Summer,Windy,,416.0,2892,34,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Helmet,Concussion,8,16,Yes,1
+1216,Expense,Ambulance Call,-1412,2025-02-25,Summer,Rainy,,645.0,1869,56,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,,Concussion,8,13,Yes,2
+1217,Expense,Ambulance Call,-1545,2025-02-25,Winter,Foggy,,627.0,1267,31,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Head Injury,10,17,Yes,2
+1218,Expense,Ambulance Call,-1168,2025-02-25,Summer,Rainy,,738.0,1672,45,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,8,15,Yes,4
+1222,Expense,Ambulance Call,-2337,2025-02-25,Summer,Sunny,,745.0,5528,17,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,,Head Injury,9,12,Yes,4
+1228,Expense,Ambulance Call,-1269,2025-02-25,Summer,Sunny,,650.0,2015,31,Female,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,,Head Injury,9,16,Yes,3
+1230,Expense,Ambulance Call,-1517,2025-02-25,Summer,Rainy,,177.0,7421,24,Male,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Advanced,,Sprain,8,14,Yes,3
+1237,Expense,Ambulance Call,-1955,2025-02-25,Winter,Snowy,,861.0,4700,27,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,,Concussion,10,27,Yes,4
+1238,Expense,Ambulance Call,-2232,2025-02-25,Winter,Windy,,579.0,7746,55,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,9,15,Yes,3
+1239,Expense,Ambulance Call,-2120,2025-02-25,Winter,Foggy,,24.0,2612,18,Male,Summer,Rainy,Climbing,Summit Peak,Advanced,Intermediate,,Fracture,8,15,Yes,4
+1246,Expense,Ambulance Call,-1031,2025-02-25,Summer,Windy,,102.0,3634,55,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,10,Yes,4
+1257,Expense,Ambulance Call,-2315,2025-02-25,Summer,Sunny,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+1263,Expense,Ambulance Call,-1985,2025-02-25,Summer,Sunny,,568.0,9041,23,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Intermediate,,Head Injury,8,12,Yes,1
+1272,Expense,Ambulance Call,-1428,2025-02-25,Summer,Windy,,704.0,8629,58,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,,Fracture,8,12,Yes,4
+1279,Expense,Ambulance Call,-2341,2025-02-25,Winter,Foggy,,68.0,1444,30,Male,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Concussion,8,15,Yes,4
+1283,Expense,Ambulance Call,-1817,2025-02-25,Winter,Foggy,,704.0,8629,58,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,,Fracture,8,12,Yes,4
+1285,Expense,Ambulance Call,-2364,2025-02-25,Winter,Snowy,,177.0,7421,24,Male,Winter,Foggy,Skiing,Blue Ridge,Intermediate,Advanced,,Sprain,8,14,Yes,3
+1305,Expense,Ambulance Call,-2228,2025-02-25,Summer,Sunny,,738.0,1672,45,Male,Winter,Windy,Snowboarding,Summit Peak,Advanced,Advanced,Pads,Sprain,8,15,Yes,4
+1312,Expense,Ambulance Call,-1537,2025-02-25,Summer,Sunny,,956.0,9737,52,Male,Winter,Foggy,Snowboarding,Bunny Hill,Easy,Advanced,,Sprain,8,15,Yes,1
+1316,Expense,Ambulance Call,-1091,2025-02-25,Summer,Sunny,,745.0,5528,17,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,,Head Injury,9,12,Yes,4
+1319,Expense,Ambulance Call,-2154,2025-02-25,Summer,Sunny,,556.0,5520,28,Female,Winter,Snowy,Snowboarding,Shadow Valley,Expert,Beginner,Helmet,Fracture,8,19,Yes,2
+1328,Expense,Ambulance Call,-1665,2025-02-25,Summer,Sunny,,82.0,9041,51,Female,Summer,Windy,Climbing,Thunder Run,Advanced,Beginner,,Head Injury,9,17,Yes,4
+1331,Expense,Ambulance Call,-1867,2025-02-25,Summer,Sunny,,2.0,7924,47,Female,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Sprain,8,13,Yes,1
+1338,Expense,Ambulance Call,-1560,2025-02-25,Winter,Snowy,,104.0,9889,19,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Intermediate,,Fracture,10,25,Yes,1
+1341,Expense,Ambulance Call,-2141,2025-02-25,Winter,Foggy,,12.0,3621,37,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Helmet,Fracture,10,19,Yes,2
+1347,Expense,Ambulance Call,-1147,2025-02-25,Winter,Windy,,414.0,3516,17,Male,Summer,Sunny,Climbing,Devil’s Drop,Expert,Beginner,Pads,Head Injury,10,19,Yes,4
+1352,Expense,Ambulance Call,-1089,2025-02-25,Summer,Rainy,,638.0,2467,35,Male,Winter,Snowy,Skiing,Devil’s Drop,Expert,Intermediate,Pads,Concussion,10,22,Yes,2
+1355,Expense,Ambulance Call,-2184,2025-02-25,Summer,Windy,,167.0,2684,18,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,14,Yes,4
+1365,Expense,Ambulance Call,-1397,2025-02-25,Winter,Sunny,,157.0,2336,38,Female,Winter,Snowy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Sprain,8,12,Yes,2
+1367,Expense,Ambulance Call,-2163,2025-02-25,Summer,Windy,,627.0,1267,31,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Head Injury,10,17,Yes,2
+1373,Expense,Ambulance Call,-1281,2025-02-25,Winter,Foggy,,157.0,2336,38,Female,Winter,Snowy,Skiing,Bunny Hill,Easy,Advanced,Helmet,Sprain,8,12,Yes,2
+1374,Expense,Ambulance Call,-1660,2025-02-25,Winter,Windy,,921.0,6143,16,Female,Winter,Sunny,Snowboarding,Devil’s Drop,Expert,Intermediate,,Concussion,10,24,Yes,4
+1376,Expense,Ambulance Call,-1995,2025-02-25,Summer,Rainy,,799.0,7093,34,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Intermediate,Helmet,Concussion,8,14,Yes,1
+1387,Expense,Ambulance Call,-1557,2025-02-25,Winter,Snowy,,35.0,9808,31,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+1394,Expense,Ambulance Call,-1783,2025-02-25,Summer,Windy,,644.0,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,,Fracture,8,10,Yes,2
+1395,Expense,Ambulance Call,-2362,2025-02-25,Summer,Rainy,,644.0,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,,Fracture,8,10,Yes,2
+1399,Expense,Ambulance Call,-2157,2025-02-25,Summer,Windy,,167.0,2684,18,Male,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,14,Yes,4
+1401,Expense,Ambulance Call,-2215,2025-02-25,Winter,Windy,,83.0,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,,Fracture,8,13,Yes,4
+1406,Expense,Ambulance Call,-1179,2025-02-25,Winter,Sunny,,96.0,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,,Fracture,8,11,Yes,1
+1407,Expense,Ambulance Call,-1122,2025-02-25,Summer,Windy,,40.0,5291,30,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,25,Yes,3
+1417,Expense,Ambulance Call,-1815,2025-02-25,Summer,Sunny,,322.0,2599,47,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Head Injury,8,14,Yes,4
+1418,Expense,Ambulance Call,-1646,2025-02-25,Winter,Foggy,,312.0,6339,39,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,8,12,Yes,2
+1420,Expense,Ambulance Call,-2092,2025-02-25,Winter,Snowy,,685.0,1185,26,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,15,Yes,3
+1421,Expense,Ambulance Call,-1522,2025-02-25,Winter,Snowy,,109.0,7284,59,Male,Summer,Rainy,Climbing,Bunny Hill,Easy,Intermediate,,Fracture,9,17,Yes,4
+1425,Expense,Ambulance Call,-1377,2025-02-25,Winter,Sunny,,669.0,2494,32,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Helmet,Fracture,8,9,Yes,4
+1428,Expense,Ambulance Call,-2316,2025-02-25,Winter,Snowy,,155.0,1502,40,Male,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,,Sprain,10,20,Yes,1
+1432,Expense,Ambulance Call,-1839,2025-02-25,Winter,Sunny,,501.0,9608,50,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Head Injury,8,9,Yes,1
+1440,Expense,Ambulance Call,-1630,2025-02-25,Winter,Sunny,,968.0,9270,45,Female,Summer,Windy,Climbing,Thunder Run,Advanced,Advanced,Helmet,Fracture,9,17,Yes,1
+1447,Expense,Ambulance Call,-2192,2025-02-25,Summer,Rainy,,86.0,9595,24,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Pads,Sprain,8,11,Yes,3
+1460,Expense,Ambulance Call,-2104,2025-02-25,Summer,Sunny,,701.0,5011,32,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+1467,Expense,Ambulance Call,-2470,2025-02-25,Summer,Windy,,492.0,7839,59,Female,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Intermediate,,Concussion,8,12,Yes,4
+1474,Expense,Ambulance Call,-1739,2025-02-25,Winter,Snowy,,68.0,1444,30,Male,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Concussion,8,15,Yes,4
+1475,Expense,Ambulance Call,-1468,2025-02-25,Winter,Snowy,,443.0,9148,19,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,,Fracture,8,12,Yes,3
+1478,Expense,Ambulance Call,-2031,2025-02-25,Summer,Sunny,,932.0,7834,22,Female,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,Pads,Sprain,8,18,Yes,1
+1484,Expense,Ambulance Call,-1751,2025-02-25,Winter,Snowy,,645.0,1869,56,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,,Concussion,8,13,Yes,2
+1502,Expense,Ambulance Call,-2398,2025-02-25,Summer,Rainy,,685.0,1185,26,Male,Summer,Sunny,Climbing,Blue Ridge,Intermediate,Intermediate,,Fracture,9,15,Yes,3
+1506,Expense,Ambulance Call,-2317,2025-02-25,Summer,Rainy,,408.0,8179,22,Female,Summer,Sunny,Climbing,Shadow Valley,Expert,Beginner,Helmet,Head Injury,8,9,Yes,2
+1508,Expense,Ambulance Call,-1265,2025-02-25,Winter,Windy,,703.0,3932,57,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Concussion,10,15,Yes,1
+1519,Expense,Ambulance Call,-1755,2025-02-25,Winter,Sunny,,152.0,8900,40,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,9,21,Yes,4
+1521,Expense,Ambulance Call,-1282,2025-02-25,Summer,Sunny,,568.0,9041,23,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Intermediate,,Head Injury,8,12,Yes,1
+1522,Expense,Ambulance Call,-1109,2025-02-25,Summer,Rainy,,309.0,1110,19,Female,Winter,Snowy,Snowboarding,Summit Peak,Advanced,Beginner,Helmet,Concussion,8,13,Yes,1
+1526,Expense,Ambulance Call,-1024,2025-02-25,Summer,Windy,,442.0,3456,52,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,9,15,Yes,2
+1538,Expense,Ambulance Call,-2249,2025-02-25,Summer,Sunny,,443.0,9148,19,Female,Winter,Foggy,Snowboarding,Shadow Valley,Expert,Beginner,,Fracture,8,12,Yes,3
+1540,Expense,Ambulance Call,-1434,2025-02-25,Winter,Windy,,295.0,9653,27,Male,Summer,Windy,Climbing,Thunder Run,Advanced,Intermediate,,Fracture,9,11,Yes,4
+1541,Expense,Ambulance Call,-1881,2025-02-25,Winter,Snowy,,470.0,8835,58,Female,Winter,Windy,Snowboarding,Summit Peak,Advanced,Intermediate,Pads,Sprain,8,13,Yes,3
+1542,Expense,Ambulance Call,-2020,2025-02-25,Summer,Rainy,,64.0,7812,46,Male,Winter,Windy,Skiing,Summit Peak,Advanced,Intermediate,,Concussion,8,15,Yes,4
+1546,Expense,Ambulance Call,-1583,2025-02-25,Winter,Sunny,,666.0,8595,23,Female,Summer,Windy,Climbing,Devil’s Drop,Expert,Advanced,,Fracture,10,15,Yes,2
+1548,Expense,Ambulance Call,-1308,2025-02-25,Summer,Sunny,,650.0,2015,31,Female,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,,Head Injury,9,16,Yes,3
+1550,Expense,Ambulance Call,-1435,2025-02-25,Summer,Rainy,,216.0,6644,54,Male,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,,Sprain,8,15,Yes,4
+1551,Expense,Ambulance Call,-1176,2025-02-25,Summer,Windy,,363.0,4329,15,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,10,17,Yes,2
+1552,Expense,Ambulance Call,-1138,2025-02-25,Summer,Rainy,,126.0,5106,39,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,9,Yes,1
+1555,Expense,Ambulance Call,-2241,2025-02-25,Winter,Snowy,,96.0,5352,50,Male,Winter,Sunny,Snowboarding,Rocky Pass,Intermediate,Beginner,,Fracture,8,11,Yes,1
+1559,Expense,Ambulance Call,-2065,2025-02-25,Summer,Windy,,174.0,9586,15,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,8,12,Yes,4
+1563,Expense,Ambulance Call,-1861,2025-02-25,Winter,Windy,,979.0,5412,30,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Pads,Fracture,8,12,Yes,4
+1565,Expense,Ambulance Call,-1953,2025-02-25,Winter,Windy,,93.0,3847,43,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Beginner,Helmet,Fracture,8,12,Yes,4
+1574,Expense,Ambulance Call,-1056,2025-02-25,Winter,Windy,,93.0,3847,43,Male,Winter,Foggy,Skiing,Shadow Valley,Expert,Beginner,Helmet,Fracture,8,12,Yes,4
+1576,Expense,Ambulance Call,-1004,2025-02-25,Winter,Sunny,,639.0,1396,44,Female,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,Pads,Head Injury,8,11,Yes,4
+1577,Expense,Ambulance Call,-2433,2025-02-25,Winter,Foggy,,810.0,6651,44,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Concussion,8,15,Yes,2
+1579,Expense,Ambulance Call,-2205,2025-02-25,Summer,Rainy,,916.0,3540,18,Female,Winter,Windy,Snowboarding,Shadow Valley,Expert,Beginner,,Sprain,8,11,Yes,2
+1582,Expense,Ambulance Call,-2282,2025-02-25,Summer,Rainy,,688.0,8888,43,Male,Summer,Windy,Climbing,Summit Peak,Advanced,Intermediate,Helmet,Fracture,9,18,Yes,3
+1586,Expense,Ambulance Call,-1897,2025-02-25,Winter,Windy,,16.0,6310,49,Female,Winter,Snowy,Snowboarding,Rocky Pass,Intermediate,Advanced,Helmet,Sprain,8,13,Yes,3
+1589,Expense,Ambulance Call,-1667,2025-02-25,Winter,Foggy,,372.0,6241,55,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Concussion,8,14,Yes,1
+1595,Expense,Ambulance Call,-1638,2025-02-25,Summer,Windy,,262.0,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+1600,Expense,Ambulance Call,-1935,2025-02-25,Summer,Rainy,,215.0,7708,33,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Intermediate,,Head Injury,9,18,Yes,4
+1605,Expense,Ambulance Call,-1782,2025-02-25,Summer,Windy,,576.0,9748,28,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Beginner,,Sprain,8,13,Yes,4
+1606,Expense,Ambulance Call,-1996,2025-02-25,Winter,Snowy,,416.0,2892,34,Female,Winter,Snowy,Skiing,Shadow Valley,Expert,Intermediate,Helmet,Concussion,8,16,Yes,1
+1608,Expense,Ambulance Call,-2482,2025-02-25,Summer,Sunny,,949.0,5986,29,Female,Winter,Foggy,Skiing,Summit Peak,Advanced,Intermediate,,Sprain,8,15,Yes,1
+1612,Expense,Ambulance Call,-1365,2025-02-25,Summer,Sunny,,262.0,4365,56,Female,Winter,Snowy,Skiing,Blue Ridge,Intermediate,Advanced,Pads,Fracture,8,11,Yes,3
+1621,Expense,Ambulance Call,-1254,2025-02-25,Winter,Snowy,,35.0,9808,31,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+1624,Expense,Ambulance Call,-1899,2025-02-25,Winter,Windy,,174.0,9586,15,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,8,12,Yes,4
+1625,Expense,Ambulance Call,-1010,2025-02-25,Summer,Rainy,,372.0,6241,55,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Concussion,8,14,Yes,1
+1629,Expense,Ambulance Call,-2244,2025-02-25,Winter,Windy,,681.0,9666,50,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Advanced,,Sprain,10,20,Yes,1
+1631,Expense,Ambulance Call,-1218,2025-02-25,Winter,Foggy,,64.0,7812,46,Male,Winter,Windy,Skiing,Summit Peak,Advanced,Intermediate,,Concussion,8,15,Yes,4
+1650,Expense,Ambulance Call,-1949,2025-02-25,Winter,Foggy,,649.0,1301,55,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,,Fracture,8,15,Yes,1
+1652,Expense,Ambulance Call,-1283,2025-02-25,Winter,Foggy,,675.0,9967,58,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,12,Yes,4
+1657,Expense,Ambulance Call,-1877,2025-02-25,Winter,Foggy,,855.0,5056,42,Male,Summer,Rainy,Climbing,Blue Ridge,Intermediate,Beginner,,Fracture,8,14,Yes,1
+1662,Expense,Ambulance Call,-1569,2025-02-25,Summer,Windy,,853.0,3100,21,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Beginner,,Fracture,10,19,Yes,4
+1666,Expense,Ambulance Call,-1421,2025-02-25,Winter,Sunny,,2.0,7924,47,Female,Winter,Foggy,Snowboarding,Thunder Run,Advanced,Beginner,Helmet,Sprain,8,13,Yes,1
+1669,Expense,Ambulance Call,-1070,2025-02-25,Winter,Windy,,108.0,5781,16,Female,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Beginner,Pads,Sprain,8,14,Yes,3
+1678,Expense,Ambulance Call,-1398,2025-02-25,Winter,Foggy,,909.0,3118,28,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Advanced,Pads,Concussion,8,21,Yes,2
+1682,Expense,Ambulance Call,-1181,2025-02-25,Winter,Sunny,,644.0,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,,Fracture,8,10,Yes,2
+1685,Expense,Ambulance Call,-2419,2025-02-25,Winter,Foggy,,701.0,5011,32,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+1686,Expense,Ambulance Call,-2013,2025-02-25,Winter,Windy,,861.0,4700,27,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Intermediate,,Concussion,10,27,Yes,4
+1696,Expense,Ambulance Call,-1572,2025-02-25,Winter,Snowy,,916.0,3540,18,Female,Winter,Windy,Snowboarding,Shadow Valley,Expert,Beginner,,Sprain,8,11,Yes,2
+1697,Expense,Ambulance Call,-2332,2025-02-25,Winter,Foggy,,681.0,9666,50,Male,Winter,Sunny,Skiing,Devil’s Drop,Expert,Advanced,,Sprain,10,20,Yes,1
+1709,Expense,Ambulance Call,-2230,2025-02-25,Summer,Sunny,,745.0,5528,17,Female,Summer,Rainy,Climbing,Shadow Valley,Expert,Beginner,,Head Injury,9,12,Yes,4
+1712,Expense,Ambulance Call,-2359,2025-02-25,Summer,Sunny,,888.0,3764,26,Male,Winter,Sunny,Skiing,Summit Peak,Advanced,Beginner,Pads,Sprain,8,12,Yes,3
+1718,Expense,Ambulance Call,-1367,2025-02-25,Summer,Windy,,430.0,7828,46,Male,Winter,Windy,Snowboarding,Thunder Run,Advanced,Intermediate,Pads,Sprain,8,10,Yes,4
+1719,Expense,Ambulance Call,-1250,2025-02-25,Summer,Sunny,,564.0,6142,55,Female,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Advanced,Helmet,Concussion,10,23,Yes,2
+1726,Expense,Ambulance Call,-1432,2025-02-25,Winter,Sunny,,576.0,9748,28,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Beginner,,Sprain,8,13,Yes,4
+1742,Expense,Ambulance Call,-1688,2025-02-25,Summer,Windy,,909.0,3118,28,Male,Winter,Sunny,Snowboarding,Shadow Valley,Expert,Advanced,Pads,Concussion,8,21,Yes,2
+1755,Expense,Ambulance Call,-1502,2025-02-25,Summer,Sunny,,701.0,5011,32,Male,Winter,Foggy,Snowboarding,Blue Ridge,Intermediate,Beginner,,Concussion,8,13,Yes,2
+1757,Expense,Ambulance Call,-1816,2025-02-25,Winter,Snowy,,675.0,9967,58,Female,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,12,Yes,4
+1762,Expense,Ambulance Call,-2269,2025-02-25,Winter,Sunny,,491.0,6657,52,Male,Winter,Snowy,Skiing,Rocky Pass,Intermediate,Advanced,Pads,Sprain,8,16,Yes,2
+1767,Expense,Ambulance Call,-1916,2025-02-25,Winter,Windy,,152.0,8900,40,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,9,21,Yes,4
+1769,Expense,Ambulance Call,-2168,2025-02-25,Winter,Foggy,,476.0,9055,58,Female,Winter,Windy,Skiing,Thunder Run,Advanced,Intermediate,Helmet,Fracture,8,19,Yes,3
+1771,Expense,Ambulance Call,-1036,2025-02-25,Winter,Foggy,,430.0,7828,46,Male,Winter,Windy,Snowboarding,Thunder Run,Advanced,Intermediate,Pads,Sprain,8,10,Yes,4
+1772,Expense,Ambulance Call,-1332,2025-02-25,Winter,Foggy,,363.0,4329,15,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,10,17,Yes,2
+1778,Expense,Ambulance Call,-1867,2025-02-25,Winter,Sunny,,442.0,3456,52,Male,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,9,15,Yes,2
+1782,Expense,Ambulance Call,-2323,2025-02-25,Summer,Sunny,,104.0,9889,19,Female,Summer,Rainy,Climbing,Devil’s Drop,Expert,Intermediate,,Fracture,10,25,Yes,1
+1787,Expense,Ambulance Call,-1324,2025-02-25,Summer,Sunny,,83.0,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,,Fracture,8,13,Yes,4
+1802,Expense,Ambulance Call,-1603,2025-02-25,Winter,Snowy,,174.0,9586,15,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,8,12,Yes,4
+1803,Expense,Ambulance Call,-1880,2025-02-25,Winter,Snowy,,780.0,8757,35,Female,Winter,Sunny,Skiing,Summit Peak,Advanced,Advanced,Pads,Fracture,8,10,Yes,3
+1809,Expense,Ambulance Call,-1068,2025-02-25,Summer,Windy,,571.0,7216,21,Male,Summer,Windy,Climbing,Devil’s Drop,Expert,Beginner,,Fracture,10,19,Yes,3
+1814,Expense,Ambulance Call,-2319,2025-02-25,Winter,Snowy,,627.0,1267,31,Male,Summer,Rainy,Climbing,Devil’s Drop,Expert,Advanced,Helmet,Head Injury,10,17,Yes,2
+1822,Expense,Ambulance Call,-2015,2025-02-25,Summer,Sunny,,644.0,5185,27,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,,Fracture,8,10,Yes,2
+1826,Expense,Ambulance Call,-2401,2025-02-25,Winter,Sunny,,109.0,7284,59,Male,Summer,Rainy,Climbing,Bunny Hill,Easy,Intermediate,,Fracture,9,17,Yes,4
+1836,Expense,Ambulance Call,-1091,2025-02-25,Winter,Sunny,,296.0,5593,45,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,8,10,Yes,4
+1850,Expense,Ambulance Call,-2449,2025-02-25,Summer,Rainy,,35.0,9808,31,Male,Winter,Windy,Skiing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,8,16,Yes,1
+1854,Expense,Ambulance Call,-1551,2025-02-25,Winter,Windy,,915.0,7979,55,Male,Winter,Foggy,Snowboarding,Rocky Pass,Intermediate,Beginner,Pads,Sprain,8,11,Yes,1
+1858,Expense,Ambulance Call,-1236,2025-02-25,Winter,Foggy,,83.0,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,,Fracture,8,13,Yes,4
+1863,Expense,Ambulance Call,-2391,2025-02-25,Winter,Foggy,,363.0,4329,15,Male,Winter,Foggy,Skiing,Devil’s Drop,Expert,Intermediate,Helmet,Sprain,10,17,Yes,2
+1868,Expense,Ambulance Call,-1972,2025-02-25,Summer,Windy,,492.0,7839,59,Female,Winter,Sunny,Snowboarding,Thunder Run,Advanced,Intermediate,,Concussion,8,12,Yes,4
+1884,Expense,Ambulance Call,-1257,2025-02-25,Summer,Rainy,,576.0,9748,28,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Beginner,,Sprain,8,13,Yes,4
+1889,Expense,Ambulance Call,-2489,2025-02-25,Winter,Foggy,,174.0,9586,15,Male,Winter,Sunny,Skiing,Bunny Hill,Easy,Advanced,Pads,Concussion,8,12,Yes,4
+1893,Expense,Ambulance Call,-1423,2025-02-25,Summer,Windy,,522.0,8863,36,Female,Summer,Rainy,Climbing,Bunny Hill,Easy,Advanced,,Head Injury,9,13,Yes,2
+1897,Expense,Ambulance Call,-1195,2025-02-25,Summer,Sunny,,645.0,1869,56,Female,Winter,Snowy,Snowboarding,Thunder Run,Advanced,Advanced,,Concussion,8,13,Yes,2
+1906,Expense,Ambulance Call,-2080,2025-02-25,Summer,Rainy,,151.0,1842,36,Female,Winter,Sunny,Snowboarding,Summit Peak,Advanced,Intermediate,,Concussion,8,13,Yes,1
+1907,Expense,Ambulance Call,-1722,2025-02-25,Winter,Snowy,,576.0,9748,28,Female,Winter,Windy,Skiing,Summit Peak,Advanced,Beginner,,Sprain,8,13,Yes,4
+1918,Expense,Ambulance Call,-1270,2025-02-25,Summer,Windy,,502.0,2506,49,Female,Winter,Snowy,Skiing,Summit Peak,Advanced,Advanced,,Concussion,8,12,Yes,3
+1923,Expense,Ambulance Call,-2234,2025-02-25,Winter,Sunny,,579.0,7746,55,Male,Summer,Windy,Climbing,Rocky Pass,Intermediate,Intermediate,Pads,Fracture,9,15,Yes,3
+1930,Expense,Ambulance Call,-2070,2025-02-25,Summer,Windy,,810.0,6651,44,Female,Winter,Foggy,Snowboarding,Summit Peak,Advanced,Intermediate,Helmet,Concussion,8,15,Yes,2
+1936,Expense,Ambulance Call,-2169,2025-02-25,Winter,Sunny,,595.0,7199,16,Male,Summer,Sunny,Climbing,Bunny Hill,Easy,Advanced,,Head Injury,9,9,Yes,4
+1942,Expense,Ambulance Call,-1427,2025-02-25,Winter,Foggy,,20.0,2049,49,Female,Summer,Windy,Climbing,Summit Peak,Advanced,Beginner,Helmet,Fracture,9,15,Yes,3
+1946,Expense,Ambulance Call,-2185,2025-02-25,Winter,Windy,,522.0,8863,36,Female,Summer,Rainy,Climbing,Bunny Hill,Easy,Advanced,,Head Injury,9,13,Yes,2
+1948,Expense,Ambulance Call,-2061,2025-02-25,Summer,Rainy,,4.0,9785,17,Male,Summer,Windy,Climbing,Blue Ridge,Intermediate,Beginner,,Head Injury,8,10,Yes,4
+1951,Expense,Ambulance Call,-1392,2025-02-25,Winter,Sunny,,985.0,2145,46,Female,Winter,Sunny,Snowboarding,Bunny Hill,Easy,Advanced,,Sprain,8,10,Yes,2
+1958,Expense,Ambulance Call,-1593,2025-02-25,Winter,Snowy,,296.0,5593,45,Male,Winter,Windy,Skiing,Blue Ridge,Intermediate,Beginner,Helmet,Sprain,8,10,Yes,4
+1959,Expense,Ambulance Call,-1388,2025-02-25,Summer,Windy,,704.0,8629,58,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Beginner,,Fracture,8,12,Yes,4
+1961,Expense,Ambulance Call,-1157,2025-02-25,Winter,Foggy,,998.0,6922,32,Male,Summer,Sunny,Climbing,Shadow Valley,Expert,Advanced,Pads,Head Injury,8,13,Yes,3
+1963,Expense,Ambulance Call,-1166,2025-02-25,Winter,Sunny,,312.0,6339,39,Female,Summer,Windy,Climbing,Shadow Valley,Expert,Advanced,Pads,Fracture,8,12,Yes,2
+1964,Expense,Ambulance Call,-2491,2025-02-25,Winter,Windy,,191.0,7878,50,Female,Winter,Snowy,Snowboarding,Blue Ridge,Intermediate,Beginner,Helmet,Fracture,8,18,Yes,3
+1966,Expense,Ambulance Call,-2435,2025-02-25,Summer,Sunny,,152.0,8900,40,Male,Summer,Sunny,Climbing,Rocky Pass,Intermediate,Advanced,Helmet,Fracture,9,21,Yes,4
+1969,Expense,Ambulance Call,-1234,2025-02-25,Winter,Snowy,,294.0,3807,16,Male,Summer,Rainy,Climbing,Rocky Pass,Intermediate,Intermediate,Helmet,Fracture,9,12,Yes,4
+1970,Expense,Ambulance Call,-1717,2025-02-25,Winter,Windy,,40.0,5291,30,Male,Winter,Foggy,Snowboarding,Devil’s Drop,Expert,Beginner,Pads,Fracture,10,25,Yes,3
+1975,Expense,Ambulance Call,-1067,2025-02-25,Summer,Rainy,,372.0,6241,55,Female,Winter,Windy,Skiing,Bunny Hill,Easy,Intermediate,Helmet,Concussion,8,14,Yes,1
+1978,Expense,Ambulance Call,-1216,2025-02-25,Summer,Sunny,,584.0,7782,59,Male,Summer,Rainy,Climbing,Thunder Run,Advanced,Intermediate,,Head Injury,8,13,Yes,1
+1987,Expense,Ambulance Call,-1449,2025-02-25,Winter,Foggy,,703.0,3932,57,Female,Winter,Windy,Skiing,Devil’s Drop,Expert,Beginner,Pads,Concussion,10,15,Yes,1
+1998,Expense,Ambulance Call,-1502,2025-02-25,Winter,Foggy,,83.0,6016,30,Female,Winter,Foggy,Skiing,Bunny Hill,Easy,Intermediate,,Fracture,8,13,Yes,4
